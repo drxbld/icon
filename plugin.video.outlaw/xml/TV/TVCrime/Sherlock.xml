@@ -1,0 +1,49 @@
+
+<dir>
+	<title>[COLOR=white]Series 1[/COLOR]</title>
+	<meta>
+	<imdb>tt1475582</imdb>
+	<content>season</content>
+	<season>1</season>
+	<year>2010</year>
+	</meta>
+	<link>file://TV/TVCrime/Sherlock_Series 1.xml</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/57o4MgHdSXP9SANGcDevuHqpT3G.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/bvS50jBZXtglmLu72EAt5KgJBrL.jpg</fanart>
+</dir>
+<dir>
+	<title>[COLOR=white]Series 2[/COLOR]</title>
+	<meta>
+	<imdb>tt1475582</imdb>
+	<content>season</content>
+	<season>2</season>
+	<year>2012</year>
+	</meta>
+	<link>file://TV/TVCrime/Sherlock_Series 2.xml</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/8IGxkHKRjI3LCwapJ7ieYyWJRSH.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/bvS50jBZXtglmLu72EAt5KgJBrL.jpg</fanart>
+</dir>
+<dir>
+	<title>[COLOR=white]Series 3[/COLOR]</title>
+	<meta>
+	<imdb>tt1475582</imdb>
+	<content>season</content>
+	<season>3</season>
+	<year>2014</year>
+	</meta>
+	<link>file://TV/TVCrime/Sherlock_Series 3.xml</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/sdv7HrQnhCFdqj3FPUUuVocI97b.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/bvS50jBZXtglmLu72EAt5KgJBrL.jpg</fanart>
+</dir>
+<dir>
+	<title>[COLOR=white]Series 4[/COLOR]</title>
+	<meta>
+	<imdb>tt1475582</imdb>
+	<content>season</content>
+	<season>4</season>
+	<year>2017</year>
+	</meta>
+	<link>file://TV/TVCrime/Sherlock_Series 4.xml</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/pzT7kbAoC48GYadwFxKFuyULVep.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/bvS50jBZXtglmLu72EAt5KgJBrL.jpg</fanart>
+</dir>

@@ -1,0 +1,49 @@
+
+<dir>
+	<title>[COLOR=white]Series 1[/COLOR]</title>
+	<meta>
+	<imdb>tt1474684</imdb>
+	<content>season</content>
+	<season>1</season>
+	<year>2010</year>
+	</meta>
+	<link>file://TV/TVCrime/Luther_Season 1.xml</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/gGnzXAzUwO3oa9u9hk33yOc440j.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/cMwPbZ3xAIGZCN5dxGw49mpRQeg.jpg</fanart>
+</dir>
+<dir>
+	<title>[COLOR=white]Series 2[/COLOR]</title>
+	<meta>
+	<imdb>tt1474684</imdb>
+	<content>season</content>
+	<season>2</season>
+	<year>2011</year>
+	</meta>
+	<link>file://TV/TVCrime/Luther_Season 2.xml</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/mSWE1PalEkjN6CvyQMMkh8ilsRt.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/cMwPbZ3xAIGZCN5dxGw49mpRQeg.jpg</fanart>
+</dir>
+<dir>
+	<title>[COLOR=white]Series 3[/COLOR]</title>
+	<meta>
+	<imdb>tt1474684</imdb>
+	<content>season</content>
+	<season>3</season>
+	<year>2013</year>
+	</meta>
+	<link>file://TV/TVCrime/Luther_Season 3.xml</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/khg4WBIFFwtrIrbBKy0sLdKG6XO.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/cMwPbZ3xAIGZCN5dxGw49mpRQeg.jpg</fanart>
+</dir>
+<dir>
+	<title>[COLOR=white]Series 4[/COLOR]</title>
+	<meta>
+	<imdb>tt1474684</imdb>
+	<content>season</content>
+	<season>4</season>
+	<year>2015</year>
+	</meta>
+	<link>file://TV/TVCrime/Luther_Season 4.xml</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/poTVKpWDYSuBE6TbF3a0aKbtKPY.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/cMwPbZ3xAIGZCN5dxGw49mpRQeg.jpg</fanart>
+</dir>

@@ -1,0 +1,12 @@
+<addon id="repository.flawless" name="flawlessiptv" version="1.0" provider-name="Flawless">
+	<extension point="xbmc.addon.repository" name="flawless-iptv">
+		<info compressed="false">http://flawless-iptv.xyz/Plugins/addons.xml</info>
+		<checksum>http://flawless-iptv.xyz/Plugins/addons.xml.md5</checksum>
+		<datadir zip="true">http://flawless-iptv.xyz/Plugins/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Created for the use of the Flawless Team</summary>
+		<description>Hosting files for Flawless IPTV and its selected partners.</description>
+		<platform>all</platform>
+	</extension>
+</addon>

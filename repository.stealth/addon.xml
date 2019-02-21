@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon 	id="repository.stealth" 
+		name="STEALTH repo" 
+		version="1.7.9" 
+		provider-name="@ndy builds">
+	<extension point="xbmc.addon.repository" name="stealth: Repository">
+		<info compressed="false">http://stealthaddon.com/stealthfiles/files/addons.xml</info>
+		<checksum>http://stealthaddon.com/stealthfiles/files/addons.xml.md5</checksum>
+		<datadir zip="true">http://stealthaddon.com/stealthfiles/files/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>stealth</summary>
+		<description>This repository has the latest work from @ndy builds</description>
+		<platform>all</platform>
+	</extension>
+</addon>

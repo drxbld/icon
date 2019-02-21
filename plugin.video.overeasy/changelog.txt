@@ -1,0 +1,14 @@
+[COLOR white]******************[/COLOR][B][COLOR gold] WELCOME TO OVEREASY LATEST UPDATES [/COLOR][/B][COLOR white]******************[/COLOR]
+
+[B][COLOR gold]* [/COLOR][/B] CURRENT STATUS: [COLOR deepskyblue]Eggcellent![/COLOR]
+
+ 
+[COLOR gold]********************************************************************************************[/COLOR]
+
+[B][COLOR deepskyblue]V1.4.8[/COLOR][/B]
+[B][COLOR gold]* [/COLOR][/B] Torrent Support 
+[B][COLOR gold]* [/COLOR][/B] Scraper Updates
+[B][COLOR gold]* [/COLOR][/B] Made 18 Compatible
+[B][COLOR gold]* [/COLOR][/B] Fixed search fucntion to add db search
+
+

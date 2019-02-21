@@ -1,0 +1,116 @@
+<dir>
+<title>[B][COLOR gold]Best Crime Movies[/COLOR][/B]</title>
+<link>file://movies/100_Best_Crime_Movies.xml</link>
+<animated_thumbnail>http://ukodi1.com/gifs/icon.gif</animated_thumbnail>
+<animated_fanart>https://media.giphy.com/media/UW1M9T0E36dq/giphy.gif</animated_fanart>
+<summary>Best Crime Movies</summary>
+</dir>
+
+<dir>
+<title>[B][COLOR gold]Best War Movies[/COLOR][/B]</title>
+<link>file://movies/100_Best_War_movies.xml</link>
+<animated_thumbnail>http://www.gifbin.com/bin/g636683874.gif</animated_thumbnail>
+<animated_fanart>https://media.giphy.com/media/j9KYEf8WA1pxC/giphy.gif</animated_fanart>
+<summary>Best War Movies</summary>
+</dir>
+
+<dir>
+<title>[B][COLOR gold]Best Ganster Movies[/COLOR][/B]</title>
+<link>file://movies/100_Greatest_Gangster_Films_of_All_Time.xml</link>
+<animated_thumbnail>http://ukodi1.com/gifs/icon.gif</animated_thumbnail>
+<animated_fanart>https://media.giphy.com/media/xT0GqpVryVUCg8tmY8/giphy.gif</animated_fanart>
+<summary>Best Ganster Movies</summary>
+</dir>
+
+<dir>
+<title>[B][COLOR gold]Best Western Movies[/COLOR][/B]</title>
+<link>file://movies/rotten-tomatoes-75-best-western-movies-of-all-time-copy.xml</link>
+<animated_thumbnail>http://ukodi1.com/gifs/john-wayne-gif-8.gif</animated_thumbnail>
+<animated_fanart>https://media.giphy.com/media/IRfWw6HOhknQs/giphy.gif</animated_fanart>
+<summary>Best Western Movies</summary>
+</dir>
+
+<dir>
+ <title>[B][COLOR gold]Best Black and White Classic Movies[/COLOR][/B]</title>
+ <bnw>movies</bnw>
+<animated_thumbnail>http://ektos.xyz/icon.gif</animated_thumbnail>
+ <summary>Black and White Cinema</summary>
+</dir>
+
+<dir>
+<title>[B][COLOR gold]Best Crime Tv Shows[/COLOR][/B]</title>
+<link>file://TV/TVCrime/Best_Crime_Tv_Shows.xml</link>
+<animated_thumbnail>http://ukodi1.com/gifs/icon.gif</animated_thumbnail>
+<animated_fanart>https://media.giphy.com/media/UW1M9T0E36dq/giphy.gif</animated_fanart>
+<summary>Best Crime Tv Shows</summary>
+</dir>
+
+<dir>
+<title>[B][COLOR gold]Best Westerns TV Shows[/COLOR][/B]</title>
+<link>file://TV/TVWesterns/The_Greatest_TV_Westerns_of_All_Time.xml</link>
+<animated_thumbnail>http://ukodi1.com/gifs/john-wayne-gif-8.gif</animated_thumbnail>
+<animated_fanart>https://media.giphy.com/media/IRfWw6HOhknQs/giphy.gif</animated_fanart>
+<summary>Best Westerns TV Shows</summary>
+</dir>
+
+<plugin>
+  <title>[COLOR gold][B]Best Western Documentaries[/B][/COLOR]</title>
+  <link>plugin://plugin.video.youtube/playlist/PLLIGciYJP_5lzD-9GAajMyLTYZAH3BXSK/</link>
+  <animated_thumbnail>http://ukodi1.com/gifs/john-wayne-gif-8.gif</animated_thumbnail>
+  <animated_fanart>https://media.giphy.com/media/IRfWw6HOhknQs/giphy.gif</animated_fanart>
+  <fanart>special://home/addons/plugin.video.gore/resources/media/fanart.jpg</fanart>
+  <summary>Western Docs</summary>
+</plugin>
+
+<plugin>
+  <title>[COLOR gold][B]Best Military & War Documentaries[/B][/COLOR]</title>
+  <link>plugin://plugin.video.youtube/playlist/PLEE2489E06F15D873/</link>
+    <animated_thumbnail>http://www.gifbin.com/bin/g636683874.gif</animated_thumbnail>
+  <animated_fanart>https://media.giphy.com/media/j9KYEf8WA1pxC/giphy.gif</animated_fanart>
+  <summary>War Docs</summary>
+</plugin>
+
+<plugin>
+  <title>[COLOR gold][B]Best Mobsters Documentaries[/B][/COLOR]</title>
+  <link>plugin://plugin.video.youtube/playlist/PLqduaEP5i4pcH1S33OVxp0aBu4Wofd5GH/</link>
+    <animated_thumbnail>http://ukodi1.com/gifs/icon.gif</animated_thumbnail>
+  <animated_fanart>https://media.giphy.com/media/xT0GqpVryVUCg8tmY8/giphy.gif</animated_fanart>
+  <summary>Mob Docs</summary>
+</plugin>
+
+<item>
+<title>[COLOR white][B]Pair With Sites[/B][/COLOR]</title>
+<pairwith>pairlist</pairwith>
+<animated_thumbnail>http://ektos.xyz/icon.gif</animated_thumbnail>
+</item>
+
+<plugin>
+<name>[COLOR white][B]AUTHORIZE REAL DEBRID [COLOR white][B](RESOLVE-URL)[/B][/COLOR]</name>
+<link>plugin://script.module.resolveurl/?mode=auth_rd</link>
+<thumbnail>special://home/addons/plugin.video.outlaw/resources/media/icon.gif</thumbnail>
+<fanart></fanart>
+<summary>AUTHORIZE REAL DEBRID (RESOLVE-URL)</summary>
+</plugin>
+
+<plugin>
+<name>[COLOR white][B]AUTHORIZE REAL DEBRID [COLOR white][B](URLRESOLVER)[/B][/COLOR]</name>
+<link>plugin://script.module.urlresolver/?mode=auth_rd</link>
+<thumbnail>special://home/addons/plugin.video.outlaw/resources/media/icon.png</thumbnail>
+<fanart></fanart>
+<summary>AUTHORIZE REAL DEBRID (URLRESOLVER)</summary>
+</plugin>
+
+<dir>
+<title>[COLOR white][B]Search[/B][/COLOR]</title>
+<tmdb>search</tmdb>
+<animated_thumbnail/>
+<thumbnail/>
+<animated_fanart/>
+<fanart/>
+</dir>
+
+<plugin>
+   <name>[COLOR white][B]Settings[/B][/COLOR]</name>
+   <link>plugin://plugin.video.outlaw/?action=openSettings</link>
+   <thumbnail></thumbnail>
+</plugin>

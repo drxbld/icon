@@ -1,0 +1,101 @@
+<dir>
+  <title>Paranormal Shows</title>
+  <tmdb>list/47735</tmdb>
+  <thumbnail></thumbnail>
+  <fanart></fanart>
+</dir>
+
+<dir>
+  <title>Mystery genre</title>
+  <tmdb>genre/shows/9648</tmdb>
+</dir>
+
+<dir>
+  <title>Investigation Discovery</title>
+  <tmdb>network/shows/244</tmdb>
+  <thumbnail></thumbnail>
+  <fantart></fantart>
+</dir>
+
+<item>
+<title>Vidi Space - Documentary space</title>
+<link>https://player.vimeo.com/video/253427375</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>SW Museum Ghost Hunt with Actor Chad Linberg</title>
+<link>https://youtu.be/xbKHXTdODR8</link>
+<thumbnail></thumbnail>
+</item>
+
+<plugin>
+<title>UFOTV® The Disclosure Network</title>
+<link>plugin://plugin.video.youtube/user/UFOTVstudios/</link>
+<thumbnail></thumbnail>
+</plugin>
+
+<plugin>
+<title>En quête de Mystères</title>
+<link>plugin://plugin.video.youtube/channel/UC6ytOUSZUnRonfORNVR2ESg/</link>
+<thumbnail></thumbnail>
+</plugin>
+
+<item>
+<title>OFF #9 Nick Groff Tour at Pennhurst State School</title>
+<link>https://youtu.be/jkfMdq8ouUE</link>
+<thumbnail></thumbnail>
+</item>
+
+<plugin>
+<title>GhostGirlDiaries</title>
+<link>plugin://plugin.video.youtube/user/ghostgirldiaries/</link>
+<thumbnail></thumbnail>
+</plugin>
+
+<plugin>
+<title>Huff Paranormal</title>
+<link>plugin://plugin.video.youtube/user/huffparanormal/</link>
+<thumbnail></thumbnail>
+</plugin>
+
+<plugin>
+<title>Urban Ghosts Urban Exploration</title>
+<link>plugin://plugin.video.youtube/channel/UCSzuL8cKMva9fQxjENTb9tw/</link>
+<thumbnail></thumbnail>
+</plugin>
+
+  <plugin>
+    <title>Outer Limits 24/7</title>
+    <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=70</link>
+  <thumbnail>https://www.arconaitv.us/uploads/streams/5934838016e8e_outer%20llimits.jpg</thumbnail>
+  <fanart></fanart>
+    </plugin>
+
+      <plugin>
+    <title>Supernatural 24/7</title>
+    <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=115</link>
+  <thumbnail>https://www.arconaitv.us/uploads/streams/598f8ccec65e9_Webp.net-resizeimage%20(1).jpg</thumbnail>
+  <fanart></fanart>
+    </plugin>
+
+      <plugin>
+    <title>The Twilight Zone 24/7</title>
+    <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=97</link>
+  <thumbnail>https://www.arconaitv.us/uploads/streams/59348247ca58f_twilight%20zone.jpg</thumbnail>
+  <fanart></fanart>
+    </plugin>
+
+      <plugin>
+    <title>Unsolved Mysteries 24/7</title>
+    <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=135</link>
+  <thumbnail>https://www.arconaitv.us/uploads/streams/5a6f8e72af533_unsolvemystery.jpg</thumbnail>
+  <fanart></fanart>
+    </plugin>
+
+      <plugin>
+    <title>X Files 24/7</title>
+    <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=105</link>
+  <thumbnail>https://www.arconaitv.us/uploads/streams/593476a25530c_xfiles.jpg</thumbnail>
+  <fanart></fanart>
+    </plugin>

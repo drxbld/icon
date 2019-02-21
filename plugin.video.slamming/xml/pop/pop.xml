@@ -1,0 +1,35 @@
+Single Link
+
+<item>
+<title></title>
+<link>**youtube link**</link>
+<thumbnail></thumbnail>
+</item>
+
+Playlist
+
+<plugin>
+<title>Music 2018: Playlist of Pop Songs</title>
+<link>plugin://plugin.video.youtube/playlist/PLgofbaE49eNZmJZpQ4WXn1q7JOrVMG5sy/</link>
+<thumbnail></thumbnail>
+</plugin>
+
+<plugin>
+<title>Best Pop Music Videos - Top Pop Hits Playlist </title>
+<link>plugin://plugin.video.youtube/playlist/PLMC9KNkIncKtGvr2kFRuXBVmBev6cAJ2u/</link>
+<thumbnail></thumbnail>
+</plugin>
+
+<plugin>
+<title>Pop Music Playlist - Timeless Pop Songs </title>
+<link>plugin://plugin.video.youtube/playlist/PLMC9KNkIncKtPzgY-5rmhvj7fax8fdxoj/</link>
+<thumbnail></thumbnail>
+</plugin>
+
+Channel
+
+<plugin>
+<title></title>
+<link>plugin://plugin.video.youtube/channel/**CHANNEL NUMBER**/playlists/</link>
+<thumbnail></thumbnail>
+</plugin>

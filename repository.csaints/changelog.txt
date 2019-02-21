@@ -1,0 +1,10 @@
+Version 1.0.4
+- Changed icon
+Version 1.0.3
+- Additional Addons
+Version 1.0.2
+- Additional Addons
+Version 1.0.1
+- Additional Addons
+Version 1.0.0
+- Initial version

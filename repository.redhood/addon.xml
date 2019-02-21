@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.redhood" name="[COLOR red]R[/COLOR]edhood [COLOR red]R[/COLOR]epo" version="1.0.2" provider-name="RHMKodi">
+	<extension point="xbmc.addon.repository" name="[COLOR red]R[/COLOR]edhood [COLOR red]R[/COLOR]epo">
+		<dir>
+			<info compressed="false">https://raw.githubusercontent.com/noobsandnerds/modules4all/master/zips/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/noobsandnerds/modules4all/master/zips/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/noobsandnerds/modules4all/master/zips/</datadir>
+		</dir>
+		<dir>
+		    <info compressed="false">http://repo.vaders.tv/repo/addons.xml</info>
+		    <checksum>http://repo.vaders.tv/repo/addons.xml.md5</checksum>
+             <datadir zip="true">http://repo.vaders.tv/repo/</datadir>
+		</dir>
+		<dir>
+			<info compressed="false">https://raw.githubusercontent.com/redhood36/redhood/master/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/redhood36/redhood/master/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/redhood36/redhood/master/</datadir>		
+		</dir>
+    </extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Install Add-ons from Redhood</summary>
+		<description>Download and install add-ons from Redhood addon repository.</description>
+		<disclaimer>Redhood</disclaimer>
+		<platform>all</platform>
+	</extension>
+</addon>

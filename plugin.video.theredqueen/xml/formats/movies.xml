@@ -1,0 +1,36 @@
+<dir>
+  <title>Trending Movies</title>
+  <trakt>https://api.trakt.tv/movies/trending</trakt>
+</dir>
+
+<dir>
+  <title>Popular Movies</title>
+  <trakt>https://api.trakt.tv/movies/popular</trakt>
+</dir>
+
+<dir>
+    <title>In Theaters</title>
+    <tmdb>year/movies/2018</tmdb>
+  </dir>
+
+<dir>
+    <title>Movie Genres</title>
+    <link>file://shared lists/genre_movies.xml</link>
+  </dir>
+</xml>
+
+<dir>
+    <title>Movie's By Year</title>
+    <link>file://shared lists/movie-years.xml</link>
+  </dir>
+  
+  <dir>
+    <title>Actors</title>
+    <link>file://shared lists/actors.xml</link>
+  </dir>
+  
+  <dir>
+    <title>Actress</title>
+    <link>file://shared lists/actress.xml</link>
+  </dir>
+</xml>

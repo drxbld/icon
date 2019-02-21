@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <addon id="repository.kidjones" name="hub" version="1.0.0" provider-name="Kid Jones">
+        <requires>
+            <import addon="xbmc.addon" version="12.0.0"/>
+        </requires>
+        <extension point="xbmc.addon.repository" name="hub">
+            <info compressed="false">http://oblivionbuildz.com/kidjones/_repo/addons.xml</info>
+            <checksum>http://oblivionbuildz.com/kidjones/_repo/addons.xml.md5</checksum>
+            <datadir zip="true">http://oblivionbuildz.com/kidjones/_repo/</datadir>
+            <hashes>false</hashes>
+        </extension>
+        <extension point="xbmc.addon.metadata">
+            <summary>addon repo</summary>
+            <description>Repo</description>
+            <platform>all</platform>
+    </extension>
+</addon>

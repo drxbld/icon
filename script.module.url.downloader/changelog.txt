@@ -1,0 +1,15 @@
+** 0.1.0 **
+
+Version bump
+
+** 0.0.5 **
+
+Initial release
+
+** 0.0.2 **
+
+Updgrade test
+
+** 0.0.1 **
+
+Initial creation

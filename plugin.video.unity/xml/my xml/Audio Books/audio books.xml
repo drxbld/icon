@@ -1,0 +1,34 @@
+<plugin>
+<title>Greatest AudioBooks</title>
+<link>plugin://plugin.video.youtube/user/GreatestAudioBooks/</link>
+<thumbnail></thumbnail>
+<description>The best free Audiobooks in history! If you're looking for an audiobook we have over 700+ of the Greatest Audio Books, all FREE of charge for your listening pleasure- most condensed into one video for easy plays! We're always adding new audiobooks so stay posted!</description>
+</plugin>
+
+<plugin>
+<title>Sci-Fi Audiobooks Collection</title>
+<link>plugin://plugin.video.youtube/channel/UCSFvuEJFg-DtMRTCCFVJQZw/</link>
+<thumbnail></thumbnail>
+<description>A home of some of your favourite Sci-Fi novels</description>
+</plugin>
+
+<plugin>
+<title>FULL audio books for everyone</title>
+<link>plugin://plugin.video.youtube/user/rt20bg/</link>
+<thumbnail></thumbnail>
+<description>Library of public domain audio books</description>
+</plugin>
+
+<plugin>
+<title>Best Audiobooks</title>
+<link>plugin://plugin.video.youtube/channel/UCclIDFmYqCm7Sdhsus_PITQ/</link>
+<thumbnail></thumbnail>
+<description>Library of audio books</description>
+</plugin>
+
+<plugin>
+<title>Free Audiobooks</title>
+<link>plugin://plugin.video.youtube/channel/UCdUi8n5XTHsHDnjGT9d0U2g/</link>
+<thumbnail></thumbnail>
+<description>Listen to full length audio books online for free</description>
+</plugin>

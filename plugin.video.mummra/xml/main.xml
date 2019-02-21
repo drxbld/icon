@@ -1,0 +1,177 @@
+<dir>
+        <name>[B][COLORorangered]Live Tv[/COLOR][/B]</name>
+        <link>http://venomrepo.xyz/anubis/livetv.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail></thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</dir>
+
+<item>
+<title>[B][COLORwhite]**********Movie and TV Shows Section**********[/COLOR][/B]</title>
+</item>
+
+<dir>
+        <name>[B][COLORwhite]Mumm Ra's One Click Films[/COLOR][/B]</name>
+        <link>http://venomrepo.xyz/anubis/newreal.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail></thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</dir>
+
+<dir>
+        <name>[B][COLORwhite]UHD Movies[/COLOR][/B]</name>
+        <link>http://venomrepo.xyz/mummra/uhd.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail></thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</dir>
+
+<dir>
+        <name>[B][COLORwhite]Trakt Lists[/COLOR][/B]</name>
+        <link>http://venomrepo.xyz/mummra/traktmovies.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail></thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</dir>
+
+<dir>
+        <name>[B][COLORwhite]Trakt Lists[/COLOR][/B]</name>
+        <link>http://venomrepo.xyz/mummra/traktmovies.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail></thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</dir>
+        <name>[B][COLORwhite]IMDB Lists[/COLOR][/B]</name>
+        <link>http://venomrepo.xyz/mummra/imdb.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail></thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</dir>
+        <name>[B][COLORwhite]TMDB Lists[/COLOR][/B]</name>
+        <link>http://venomrepo.xyz/mummra/tmdblists.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail></thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</dir>
+
+<item>
+<title>[B][COLORwhite]**********24-7 Section**********[/COLOR][/B]</title>
+</item>
+
+<dir>
+      <title>24/7 Movies</title>
+      <arconaitv2>movies</arconaitv2>
+    </dir>
+    
+    
+    <dir>
+      <title>24/7 TV Shows</title>
+      <arconaitv2>shows</arconaitv2>
+    </dir>
+    
+    
+    <dir>
+      <title>24/7 Channels</title>
+      <arconaitv2>cable</arconaitv2>
+    </dir>
+    
+    <dir>
+    <title>Unites States Networks</title>
+    <tvmaze>country/United States/1</tvmaze>
+    </dir>
+    
+<item>
+<title>[B][COLORwhite]**********Kids World**********[/COLOR][/B]</title>
+</item>
+
+</dir>
+        <name>[B][COLORwhite]Old School Cartoons[/COLOR][/B]</name>
+        <link>http://venomrepo.xyz/mummra/oldschool.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail></thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</dir>
+
+</dir>
+        <name>[B][COLORwhite]Box Sets[/COLOR][/B]</name>
+        <link>http://venomrepo.xyz/mummra/kidsboxsets.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail></thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</dir>
+
+</dir>
+        <name>[B][COLORwhite]Movies[/COLOR][/B]</name>
+        <link>http://venomrepo.xyz/mummra/kidmovies.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail></thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</dir>
+
+</dir>
+        <name>[B][COLORwhite]TV[/COLOR][/B]</name>
+        <link>http://venomrepo.xyz/mummra/kidmovies.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail></thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</dir>
+
+<item>
+<title>[B][COLORwhite]*****************************[/COLOR][/B]</title>
+</item>
+
+</dir>
+        <name>[B][COLORwhite]Podcasts[/COLOR][/B]</name>
+        <link>http://venomrepo.xyz/mummra/Podcast.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail></thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</dir>
+
+<item>
+<title>[B][COLORwhite]*****************************[/COLOR][/B]</title>
+</item>
+
+        <item>
+            <title>Mummra Settings</title>
+            <mysettings>1/0</mysettings>
+            <info>Open the Settings for the addon on the General tab</info>
+        </item>
+        
+        <item>
+            <title>Pair With Sites</title>
+            <pairwith>pairlist</pairwith>
+        </item>
+        
+<plugin>
+<name>[B][COLORorangered]Real Debrid Login[/COLOR][/B]</name>
+<link>plugin://script.module.resolveurl/?mode=auth_rd</link>
+<thumbnail>http://koditips.com/wp-content/uploads/real-debrid-addon.png</thumbnail>
+</plugin>
+
+<dir>
+  <title>Search Trakt</title>
+  <trakt>search</trakt>
+</dir>
+
+<dir>
+      <title>Search</title>
+      <tmdb>search</tmdb>
+</dir>
+
+<dir>
+<title>Search Internet Movies</title>
+<tmdb>search</tmdb>
+</dir>

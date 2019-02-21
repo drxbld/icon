@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="script.corona.artwork" version="1.2" name="[B][COLOR yellow]CORONA ARTWORK[/COLOR][/B]" provider-name="[B][COLOR yellow]SANDMAN[/COLOR][/B]">
+	<requires>
+		<import addon="xbmc.python" version="2.19.0"/>
+	</requires>
+	<extension point="xbmc.python.module" library="lib" />
+	<extension point="xbmc.addon.metadata">
+		<summary>[COLOR yellow]THEMES FOR THE CORONA ADD-ON[/COLOR]</summary>
+		<description>Themes for CORONA are maintained separately to make distribution of the the addon itself easier/faster.</description>
+        <disclaimer lang="en"></disclaimer>
+		<platform>all</platform>
+		<license></license>
+		<assets>
+		<icon>icon.gif</icon>
+		<fanart>fanart.jpg</fanart>
+		</assets>
+	</extension>
+</addon>

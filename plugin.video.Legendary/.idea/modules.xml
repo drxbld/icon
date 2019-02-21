@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../plugin.video.cartoonLegedary/.idea/plugin.video.Legedary.iml" filepath="$PROJECT_DIR$/../plugin.video.cartoonLegedary/.idea/plugin.video.Legedary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../script.Legedary.artwork/.idea/script.Legedary.artwork.iml" filepath="$PROJECT_DIR$/../script.Legedary.artwork/.idea/script.Legedary.artwork.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../script.Legedary.metadata/.idea/script.Legedary.metadata.iml" filepath="$PROJECT_DIR$/../script.Legedary.metadata/.idea/script.Legedary.metadata.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/script.module.Legedary.iml" filepath="$PROJECT_DIR$/.idea/script.module.Legedary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../script.module.resolveurl/.idea/script.module.resolveurl.iml" filepath="$PROJECT_DIR$/../script.module.resolveurl/.idea/script.module.resolveurl.iml" />
+    </modules>
+  </component>
+</project>

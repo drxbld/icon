@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.csaints" name="[B]Cosmic Saints[/B]" version="1.0.4" provider-name="CSaints">
+	<extension point="xbmc.addon.repository" name="Cosmic Saints">
+		<info compressed="false">http://www.csaints.com/repo/addons.xml</info>
+		<checksum>http://www.csaints.com/repo/addons.xml.md5</checksum>
+		<datadir zip="true">http://www.csaints.com/repo/</datadir>
+	</extension>
+	  <extension point="xbmc.addon.metadata">
+		<summary lang="en">Cosmic Saints Repository</summary>
+		<description lang="en">csaints repo</description>
+		<platform>all</platform>
+		<forum></forum>
+		<website></website>
+	  <assets>
+		<icon>icon.jpg</icon>
+	  </assets>
+	  </extension>
+</addon>

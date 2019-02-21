@@ -1,0 +1,4 @@
+-1.0.1
+  - Update for scrapers and new art
+-1.0.0
+  - Initial version

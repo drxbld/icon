@@ -1,0 +1,47 @@
+Single Link
+
+<item>
+<title>Pulp - Greatest Hits</title>
+<link>https://www.youtube.com/watch?v=qlzX3phEEEk&list=PLABFE68BACAA68F87</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Oasis playlist greatest hits</title>
+<link>https://www.youtube.com/watch?v=dhZUsNJ-LQU&start_radio=1&list=RDQMpf4cs0mqO5w</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Blur's Greatest Hits</title>
+<link>https://www.youtube.com/watch?v=YSuHrTfcikU&list=PL7A55EB715FBB2940</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Indie Rock/Britpop/British Modern Rock songs</title>
+<link>https://www.youtube.com/watch?v=bx1Bh8ZvH84&list=PL633BED8890B76B76</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Oasis playlist greatest hits</title>
+<link>https://www.youtube.com/watch?v=dhZUsNJ-LQU&start_radio=1&list=RDQMpf4cs0mqO5w</link>
+<thumbnail></thumbnail>
+</item>
+
+Playlist
+
+<plugin>
+<title>100 Greastest Britpop Songs</title>
+<link>plugin://plugin.video.youtube/playlist/PLJxAQg1HtgFm_V8wPdBV3sGCD2B7btcEw/</link>
+<thumbnail></thumbnail>
+</plugin>
+
+Channel
+
+<plugin>
+<title></title>
+<link>plugin://plugin.video.youtube/channel/**CHANNEL NUMBER**/playlists/</link>
+<thumbnail></thumbnail>
+</plugin>

@@ -1,0 +1,7 @@
+Using the tourney url (https://www.pgatour.com/competition/2018/sony-open-in-hawaii/leaderboard.html) we can find the tournId on that page
+tournId = re.compile("tournId: '(.+?)'").findall(tournPage)[0]
+
+Using the tournId we can get the playerslist
+https://statdata.pgatour.com/r/{tournId}/player_stats.json
+
+With that, we can grab whatever player we want in the tourney, use their pid provided in that data and lookup their shot-by-shot and other stats with https://statdata.pgatour.com/r/{tournId}/scorecards/{pid}.json

@@ -1,0 +1,25 @@
+
+<dir>
+	<title>[COLOR=white]Season 1[/COLOR]</title>
+	<meta>
+	<imdb>tt0050079</imdb>
+	<content>season</content>
+	<season>1</season>
+	<year>1957</year>
+	</meta>
+	<link>file://TV/TVWesterns/Zorro_Season 1.xml</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/llugedXQDwAzIVqoOv6P6qeNFus.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/iyK4dcP9IGCurxGo3gwruiE6Xjq.jpg</fanart>
+</dir>
+<dir>
+	<title>[COLOR=white]Season 2[/COLOR]</title>
+	<meta>
+	<imdb>tt0050079</imdb>
+	<content>season</content>
+	<season>2</season>
+	<year>1958</year>
+	</meta>
+	<link>file://TV/TVWesterns/Zorro_Season 2.xml</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/llugedXQDwAzIVqoOv6P6qeNFus.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/iyK4dcP9IGCurxGo3gwruiE6Xjq.jpg</fanart>
+</dir>

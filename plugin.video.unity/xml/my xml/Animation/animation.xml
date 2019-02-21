@@ -1,0 +1,43 @@
+    <dir>
+      <title>Asterix Collection</title>
+      <tmdb>collection/94039</tmdb>
+    </dir>
+
+   	<dir>
+		<title>Old kids shows TV Shows</title>
+		<tmdb>list/48990</tmdb>
+	</dir>
+
+   	<dir>
+		<title>Wallace & Gromit</title>
+		<tmdb>list/50853</tmdb>
+	</dir>
+
+	<dir>
+  		<title>Studio Ghibli</title>
+  		<tmdb>company/movies/10342</tmdb>
+	</dir>
+
+	<plugin>
+<title>Transformers Gen 1 Series 1 VPN might be needed, GEO locked</title>
+<link>plugin://plugin.video.youtube/playlist/PLE9A717436E450F0C/</link>
+<thumbnail></thumbnail>
+</plugin>
+
+<plugin>
+<title>Transformers Gen 1 Series 2 VPN might be needed, GEO locked</title>
+<link>plugin://plugin.video.youtube/playlist/PL278D20A22BFE189B/</link>
+<thumbnail></thumbnail>
+</plugin>
+
+<plugin>
+<title>Transformers Gen 1 Series 3 VPN might be needed, GEO locked</title>
+<link>plugin://plugin.video.youtube/playlist/PL275F1746C25B7EDA/</link>
+<thumbnail></thumbnail>
+</plugin>
+
+<plugin>
+<titleTransformers Gen 1 Series 4 VPN might be needed, GEO locked</title>
+<link>plugin://plugin.video.youtube/playlist/PL2BC5EF902C0174CD/</link>
+<thumbnail></thumbnail>
+</plugin>

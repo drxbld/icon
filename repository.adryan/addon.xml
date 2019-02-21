@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <addon id="repository.adryan" name="ADRYAN Repositorio" version="2.0.2" provider-name="adryan">
+        <requires>
+            <import addon="xbmc.addon" version="12.0.0"/>
+        </requires>
+        <extension point="xbmc.addon.repository" name="Adryan Repositorio Oficial">
+            <info compressed="false">https://raw.githubusercontent.com/adrianhn/adryanrepo/master/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/adrianhn/adryanrepo/master/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/adrianhn/adryanrepo/master/</datadir>
+        </extension>
+        <extension point="xbmc.addon.metadata">
+            <summary>Repositorio para AdryanList 2.0.2</summary>
+            <description>Repositorio que pertenece a AdryanList.</description>
+            <platform>all</platform>
+    </extension>
+</addon>

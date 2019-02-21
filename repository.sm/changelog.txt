@@ -1,0 +1,8 @@
+[B]Version 2.1[/B]
+
+- Changed artwork Thanks to MAYHEM for the artwork!
+- No longer need jen repo installed for dependacies! All dependacies needed are now in our repo! Thanks to blue from the jen team!
+- Changed Team Name to reflect direction were going and updated artwork!
+
+[B]Version 1.0[/B]
+- Initial version

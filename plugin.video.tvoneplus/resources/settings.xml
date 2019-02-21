@@ -1,0 +1,12 @@
+<settings>
+	<category label="Login">
+     <setting id="Email" type="text" label="E-mail" default=""/>
+     <setting id="Password" type="text" option="writeable,hidden" label="Password" default=""/>
+	</category>
+	
+    <category label="General">
+        <setting label="Use livestreamer" type="bool" id="livestreamer" default="false"/>
+        <setting label="Use inputstream.adaptive HLS" type="bool" id="inputstream" default="false"/>
+        <setting label="Cache time (Hours)" type="slider" id="cache_time" default="8" range="0,80" option="int"/>
+    </category>
+</settings>

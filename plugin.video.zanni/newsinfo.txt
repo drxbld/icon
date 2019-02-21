@@ -1,0 +1,39 @@
+[COLOR orange]Zanni[/COLOR] w/Lambda Scrapers if you are having trouble with "NO STREAMS" messages you need to ensure that you have providers selected in Lambda Scarpers. Read Below for more information. If they are setup and you are still getting the message it is very possible there is no content availble. 
+
+=======[B]LAMBDA SETUP[/B]========
+1. Go to "Configure Lambda Settings" from the main menu of Zanni
+2. Under "Providers" set "Choose Module Provider Source" to "Lambda Scrapers" (should be default already)
+3. Then below click on "Lambda Scrapers Default Providers"
+4. Then on the left click on "Foreign", then click "Enable all Foreign Providers"
+5. If you have a PAID Subscription to Real-Dedrid go to "Derid Only"
+5. Then click "Enable All Debrid Providers" 
+6. Once all you have selected everything, click "OK". 
+7. You have setup Lambda Scrappers. Try it out and "NO STREAMS" should be fixed.
+
+=======[B]SUPPORT[/B]========
+www.13clowns.com (live support on telegram)
+Twitter: @1clowns
+
+=======[B]CHANGE LOG[/B]=======
+[B]1.0.7[/B]
+- Rearrange menus for my liking
+- setup defaults
+- fixed pre-emptive termination
+[B]1.0.5[/B]
+- Added Channels
+- Added Boxsets
+- fixed pre-emptive termination
+[B]1.0.3[/B]
+- show unaired season/episode option for S00
+[B]1.0.2[/B]
+- default autoplay on source
+- default to 1080
+- default Zanni theme
+- Kodi 18 fixes
+[B]1.0.1[/B]
+- Initial version
+
+=======[B]CREDITS[/B]========
+I-A-C for Lambda Scrappers
+ResolveURL
+Fans, Supporters, Reviewers, etc. 

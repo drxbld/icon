@@ -1,0 +1,70 @@
+<dir>
+  <title>Trending Shows</title>
+  <trakt>https://api.trakt.tv/shows/trending</trakt>
+</dir>
+
+<dir>
+  <title>Popular Shows</title>
+  <trakt>https://api.trakt.tv/shows/popular</trakt>
+</dir>
+
+<dir>
+  <title>Action & Adventure</title>
+  <tmdb>genre/shows/10759</tmdb>
+</dir>
+
+<dir>
+  <title>Animation</title>
+  <tmdb>genre/shows/16</tmdb>
+</dir>
+
+<dir>
+  <title>Comedy</title>
+  <tmdb>genre/shows/35</tmdb>
+</dir>
+
+<dir>
+  <title>Crime</title>
+  <tmdb>genre/shows/80</tmdb>
+</dir>
+
+<dir>
+  <title>Documentary</title>
+  <tmdb>genre/shows/99</tmdb>
+</dir>
+
+<dir>
+  <title>Drama</title>
+  <tmdb>genre/shows/18</tmdb>
+</dir>
+
+<dir>
+  <title>Family</title>
+  <tmdb>genre/shows/10751</tmdb>
+</dir>
+
+<dir>
+  <title>Kids</title>
+  <tmdb>genre/shows/10762</tmdb>
+</dir>
+
+<dir>
+  <title>Mystery</title>
+  <tmdb>genre/shows/9648</tmdb>
+</dir>
+
+<dir>
+  <title>Reality</title>
+  <tmdb>genre/shows/10764</tmdb>
+</dir>
+
+<dir>
+  <title>Sci-Fi & Fantasy</title>
+  <tmdb>genre/shows/10765</tmdb>
+</dir>
+
+<dir>
+  <title>Western</title>
+  <tmdb>genre/shows/37</tmdb>
+</dir>
+

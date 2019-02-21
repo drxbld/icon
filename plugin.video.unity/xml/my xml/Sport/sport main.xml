@@ -1,0 +1,89 @@
+<xml> 
+
+
+<dir>
+<title>Live Sports</title>
+<sport_stream>games</sport_stream>
+</dir>
+
+
+<plugin>
+<title>Sports Channels</title>
+<link>plugin://script.module.deceit-uktvnow/list_channels/5</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+
+<dir>
+<title>UKTV Sports swift</title> 
+<link>plugin://script.module.swiftstreamz/list_channels/36</link>
+ </dir>
+
+  <plugin>
+<title>LIVE NETTV Sports Channels</title>
+<link>plugin://script.module.livenettv.net/list_channels/1</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+
+<dir>
+<title>HesGoal Sports Streams</title>
+<hesgoal>games</hesgoal>
+</dir>
+
+  <dir>
+    <title>Boxing</title>
+    <link>http://www.onealliancereborn.com/winchesterhilts/Unity/Sport/boxing.xml</link>
+  </dir>
+
+  <dir>
+    <title>Snooker</title>
+    <link>http://www.onealliancereborn.com/winchesterhilts/Unity/Sport/snooker.xml</link>
+  </dir>
+  
+  <dir>
+    <title>Fishing</title>
+    <link>http://www.onealliancereborn.com/winchesterhilts/Unity/Sport/fishing.xml</link>
+  </dir>
+
+  <dir>
+    <title>Football Fanzines</title>
+    <link>http://www.onealliancereborn.com/winchesterhilts/Unity/Sport/football.xml</link>
+  </dir>
+
+<plugin>
+<title>UEFA Champions League Highlights</title>
+<link>plugin://plugin.video.youtube/playlist/PLubVgegS36EMhMb1j0NZL7Fcwy5jioEcg/</link>
+<thumbnail></thumbnail>
+</plugin>
+
+<plugin>
+<title>No Filter: UEFA Champions League - Access all areas around Europe</title>
+<link>plugin://plugin.video.youtube/playlist/PLubVgegS36ENNnrQ01gmK8mXgwESuzCjw/</link>
+<thumbnail></thumbnail>
+</plugin>
+
+<plugin>
+<title>UEFA Europa League Highlights</title>
+<link>plugin://plugin.video.youtube/playlist/PLK3QOwR--EFldRiPpMWau-k3eHzVdNAJe/</link>
+<thumbnail></thumbnail>
+</plugin>
+
+<dir>
+    <title>World Cup</title>
+    <link>http://www.onealliancereborn.com/winchesterhilts/Unity/Sport/worldcuplive.xml</link>
+ </dir>
+
+<plugin>
+<title>Moto GP highlights and Replays</title>
+<link>plugin://plugin.video.youtube/playlist/PLK3QOwR--EFldRiPpMWau-k3eHzVdNAJe/</link>
+<thumbnail></thumbnail>
+</plugin>
+
+  <dir>
+    <title>Replays - UFC, Boxing, Football, F1 & American Football</title>
+    <link>http://www.onealliancereborn.com/winchesterhilts/Unity/Sport/replays.xml</link>
+  </dir>
+
+
+ </xml>

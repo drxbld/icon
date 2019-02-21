@@ -1,0 +1,37 @@
+<xml>
+  <dir>
+    <title>Movies</title>
+    <link>http://ja5on259.000webhostapp.com/movies/movies.xml</link>
+  </dir>
+
+  <dir>
+    <title>Tv Shows</title>
+    <link>file://formats/tv.xml</link>
+  </dir>
+  
+   <dir>
+    <title>Trakt</title>
+    <link>file://formats/trakt.xml</link>
+  </dir>
+  
+  <dir>
+    <title>Catch Up TV</title>
+    <link>file://formats/catchup.xml</link>
+  </dir>
+  
+  <dir>
+    <title>Tv Channels</title>
+    <Airtable>tv_channels</Airtable>
+    </dir>
+	
+	<dir>
+    <title>24-7 Channels</title>
+    <Airtable>247</Airtable>
+    </dir>
+	
+	<dir>
+    <title>Sports Channels</title>
+    <Airtable>sports_channels</Airtable>
+    </dir>
+	
+</xml>

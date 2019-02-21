@@ -1,0 +1,58 @@
+<dir>
+<title>Live Sports</title>
+<sport_stream>games</sport_stream>
+</dir>
+
+<plugin>
+<title>Sports Channels</title>
+<link>plugin://script.module.uktvnow/list_channels/5</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+
+<dir>
+<title>UKTV Sports swift</title> 
+<link>plugin://script.module.swiftstreamz/list_channels/36</link>
+ </dir>
+
+  <plugin>
+<title>LIVE NETTV Sports Channels</title>
+<link>plugin://script.module.livenettv.net/list_channels/1</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+
+<dir>
+<title>HesGoal Sports Streams</title>
+<hesgoal>games</hesgoal>
+</dir>
+
+  <item>
+<title>Link 1</title>
+<link>a</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+  <item>
+<title>link 2</title>
+<link>b</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+  <item>
+<title>Link 3</title>
+<link>c</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+  <item>
+<title>link 4</title>
+<link>d</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>

@@ -1,0 +1,20 @@
+<addon id="repository.stefanorepository" name="Stefano Repository" version="3.2" provider-name="Stefano">
+    <requires>
+		<import addon="xbmc.addon" version="12.0.0"/>
+	</requires>
+	<extension point="xbmc.addon.repository" name="Stefano Repository">
+		<info compressed="false">http://stefanoaddon.info/zip/addon.xml</info>
+		<checksum>http://stefanoaddon.info/zip/addons.xml.md5</checksum>
+		<datadir zip="true">http://stefanoaddon.info/zip/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Stefano Official Repository</summary>
+		<description>Repository ufficiale di Stefano</description>
+<news>3.2
+-- compatibilità kodi 18 ultime versioni
+-v3.1
+- - Addons non ufficiali essenziali per il Funzionamento di Stefano Addon e Evil Addon E MEZZO kODI
+</news>
+		<platform>all</platform>
+	</extension>
+</addon>

@@ -1,0 +1,1895 @@
+# Addon Name: Stefano Thegroove 360
+# Addon id: plugin.video.Stefano
+# Addon Provider: sClarke
+
+
+msgid ""
+msgstr ""
+"Project-Id-Version: Stefano Addon\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2017-05-30 09:11+0000\n"
+"Last-Translator: Viper2k4\n"
+"Language-Team: Italian (http://www.transifex.com/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "#32001"
+msgid "Movies"
+msgstr "Film"
+
+msgctxt "#32002"
+msgid "TV Shows"
+msgstr "Serie TV"
+
+msgctxt "#32003"
+msgid "My Movies"
+msgstr "I miei Film"
+
+msgctxt "#32004"
+msgid "My TV Shows"
+msgstr "Le mie Serie TV"
+
+msgctxt "#32005"
+msgid "New Movies"
+msgstr "Nuovi Film"
+
+msgctxt "#32006"
+msgid "New Episodes"
+msgstr "Nuovi Episodi"
+
+msgctxt "#32007"
+msgid "Channels"
+msgstr "Canali"
+
+msgctxt "#32008"
+msgid "Tools"
+msgstr "Strumenti"
+
+msgctxt "#32009"
+msgid "Downloads"
+msgstr "Download"
+
+msgctxt "#32010"
+msgid "Search"
+msgstr "Cerca"
+
+msgctxt "#32011"
+msgid "Genres"
+msgstr "Generi"
+
+msgctxt "#32012"
+msgid "Year"
+msgstr "Anno"
+
+msgctxt "#32013"
+msgid "People"
+msgstr "Persone"
+
+msgctxt "#32014"
+msgid "Languages"
+msgstr "Lingue"
+
+msgctxt "#32015"
+msgid "Certificates"
+msgstr "Certificati"
+
+msgctxt "#32016"
+msgid "Networks"
+msgstr "Network"
+
+msgctxt "#32017"
+msgid "People Watching"
+msgstr "Più Guardati"
+
+msgctxt "#32018"
+msgid "Most Popular"
+msgstr "Più Popolari"
+
+msgctxt "#32019"
+msgid "Most Voted"
+msgstr "Più Votati"
+
+msgctxt "#32020"
+msgid "Box Office"
+msgstr "Botteghino"
+
+msgctxt "#32021"
+msgid "Oscar Winners"
+msgstr "Vincitori di Oscar"
+
+msgctxt "#32022"
+msgid "In Theaters"
+msgstr "Al Cinema"
+
+msgctxt "#32023"
+msgid "Highly Rated"
+msgstr "Meglio Recensiti"
+
+msgctxt "#32024"
+msgid "Airing today"
+msgstr "In Onda Oggi"
+
+msgctxt "#32025"
+msgid "Returning TV Shows"
+msgstr "Serie TV in Proseguimento"
+
+msgctxt "#32026"
+msgid "New TV Shows"
+msgstr "Nuove Serie TV"
+
+msgctxt "#32027"
+msgid "TV Calendar"
+msgstr "Calendario TV"
+
+msgctxt "#32028"
+msgid "People Search"
+msgstr "Ricerca Persone"
+
+msgctxt "#32029"
+msgid "People (Movies)"
+msgstr "Persone (Film)"
+
+msgctxt "#32030"
+msgid "People (TV)"
+msgstr "Persone (TV)"
+
+msgctxt "#32031"
+msgid "Discover"
+msgstr "Scopri"
+
+msgctxt "#32032"
+msgid "Collection"
+msgstr "Collezione"
+
+msgctxt "#32033"
+msgid "Watchlist"
+msgstr "Watchlist"
+
+msgctxt "#32034"
+msgid "IMDb"
+msgstr "IMDb"
+
+msgctxt "#32035"
+msgid "Featured"
+msgstr "In Primo Piano"
+
+msgctxt "#32036"
+msgid "History"
+msgstr "Cronologia"
+
+msgctxt "#32037"
+msgid "Progress"
+msgstr "Avanzamento"
+
+msgctxt "#32038"
+msgid "Episodes"
+msgstr "Episodi"
+
+msgctxt "#32039"
+msgid "Movie Lists"
+msgstr "Liste Film"
+
+msgctxt "#32040"
+msgid "TV Show Lists"
+msgstr "Liste Serie TV"
+
+msgctxt "#32041"
+msgid "Episode Lists"
+msgstr "Liste Episodi"
+
+msgctxt "#32042"
+msgid "No Trakt or IMDb account found."
+msgstr "Non è stato trovato alcun account Trakt o IMDb."
+
+msgctxt "#32043"
+msgid "[B]SETTINGS[/B] : General"
+msgstr "[B]IMPOSTAZIONI[/B] : Generale"
+
+msgctxt "#32044"
+msgid "[B]SETTINGS[/B] : Accounts"
+msgstr "[B]IMPOSTAZIONI[/B] : Account"
+
+msgctxt "#32045"
+msgid "[B]SETTINGS[/B] : Playback"
+msgstr "[B]IMPOSTAZIONI[/B] : Riproduzione"
+
+msgctxt "#32046"
+msgid "[B]SETTINGS[/B] : Subtitles"
+msgstr "[B]IMPOSTAZIONI[/B] : Sottotitoli"
+
+msgctxt "#32047"
+msgid "[B]SETTINGS[/B] : Providers"
+msgstr "[B]IMPOSTAZIONI[/B] : Provider"
+
+msgctxt "#32048"
+msgid "[B]Stefano Addon[/B] : Downloads"
+msgstr "[B]Stefano Addon[/B] : Download"
+
+msgctxt "#32049"
+msgid "[B]Stefano Addon[/B] : Viewtypes"
+msgstr "[B]Stefano Addon[/B] : Viewtype"
+
+msgctxt "#32050"
+msgid "[B]Stefano Addon[/B] : Clear providers..."
+msgstr "[B]Stefano Addon[/B] : Rimuovi provider..."
+
+msgctxt "#30716"
+msgid "MetaData"
+msgstr ""
+
+msgctxt "#30717"
+msgid "Enable MetaData"
+msgstr "Attiva MetaData"
+
+msgctxt "#30718"
+msgid "Cache"
+msgstr "Cache"
+
+
+msgctxt "#30719"
+msgid "Clear cache..."
+msgstr "Svuota cache..."
+
+
+msgctxt "#32056"
+msgid "Are you sure?"
+msgstr "Sei Sicuro?"
+
+
+msgctxt "#32051"
+msgid "[B]Stefano Addon[/B] : Clear metadata..."
+msgstr "[B]Stefano Addon[/B] : Rimuovi metadata..."
+
+
+msgctxt "#32053"
+msgid "[I]Next Page[/I]"
+msgstr "[I]Pagina Successiva[/I]"
+
+msgctxt "#32054"
+msgid "Seasons"
+msgstr "Stagioni"
+
+msgctxt "#32055"
+msgid "Season"
+msgstr "Stagione"
+
+msgctxt "#32056"
+msgid "Are you sure?"
+msgstr "Sei sicuro?"
+
+msgctxt "#32057"
+msgid "Process Complete"
+msgstr "Processo Completato"
+
+msgctxt "#32058"
+msgid "This will slow down things until they are re-cached!"
+msgstr "Questo rallenterà le cose finché non saranno rimesse nella cache!"
+
+msgctxt "#32059"
+msgid "CLICK HERE TO SAVE VIEW"
+msgstr "CLICCA QUI PER SALVARE LA VISTA"
+
+msgctxt "#32060"
+msgid ""
+"January|February|March|April|May|June|July|August|September|October|November|December"
+msgstr "Gennaio|Febbraio|Marzo|Aprile|Maggio|Giugno|Luglio|Agosto|Settembre|Ottobre|Novembre|Dicembre"
+
+msgctxt "#32061"
+msgid "Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday"
+msgstr "Lunedì|Martedì|Mercoledì|Giovedì|Venerdì|Sabato|Domenica"
+
+msgctxt "#32062"
+msgid "[B]%s[/B] : %s"
+msgstr "[B]%s[/B] : %s"
+
+msgctxt "#32063"
+msgid "Play using..."
+msgstr "Riproduci con..."
+
+msgctxt "#32064"
+msgid "Auto Play"
+msgstr "Riproduzione Automatica"
+
+msgctxt "#32065"
+msgid "Queue item"
+msgstr "Metti in coda"
+
+msgctxt "#32066"
+msgid "Watched in Stefano Addon"
+msgstr "Guardato in Stefano Addon"
+
+msgctxt "#32067"
+msgid "Unwatched in Stefano Addon"
+msgstr "Non ancora guardato in Stefano Addon"
+
+msgctxt "#32068"
+msgid "Watched in Trakt"
+msgstr "Guardato in Trakt"
+
+msgctxt "#32069"
+msgid "Unwatched in Trakt"
+msgstr "Non ancora guardato in Trakt"
+
+msgctxt "#32070"
+msgid "Trakt Manager"
+msgstr "Trakt Manager"
+
+msgctxt "#32071"
+msgid "Browse Series"
+msgstr "Scorri Serie"
+
+msgctxt "#32072"
+msgid "Refresh"
+msgstr "Aggiorna"
+
+msgctxt "#32073"
+msgid "[B]TRAKT[/B] : Authorize"
+msgstr "[B]TRAKT[/B]: Autorizzazione"
+
+msgctxt "#32074"
+msgid "[B]HELP[/B]"
+msgstr "[B]HELP[/B]"
+
+msgctxt "#32301"
+msgid "Enabled"
+msgstr "Abilitato"
+
+msgctxt "#32302"
+msgid "Disabled"
+msgstr "Disabilitato"
+
+msgctxt "#32303"
+msgid "User"
+msgstr "Utente"
+
+msgctxt "#32304"
+msgid "Email"
+msgstr "Email"
+
+msgctxt "#32305"
+msgid "ID"
+msgstr "ID"
+
+msgctxt "#32306"
+msgid "Authorization..."
+msgstr "Autorizzazione..."
+
+msgctxt "#32307"
+msgid "Password"
+msgstr "Password"
+
+msgctxt "#32308"
+msgid "PIN"
+msgstr "PIN"
+
+msgctxt "#32309"
+msgid "API"
+msgstr "API"
+
+msgctxt "#32310"
+msgid "General"
+msgstr "Generale"
+
+msgctxt "#32311"
+msgid "Appearance"
+msgstr "Aspetto"
+
+msgctxt "#32312"
+msgid "Providers Timeout"
+msgstr "Timeout Provider"
+
+msgctxt "#32313"
+msgid "Indicators"
+msgstr "Indicatori"
+
+msgctxt "#32314"
+msgid "Local"
+msgstr "Locale"
+
+msgctxt "#32315"
+msgid "Trakt"
+msgstr "Trakt"
+
+msgctxt "#32316"
+msgid "Info Language"
+msgstr "Info Lingua"
+
+msgctxt "#32317"
+msgid "Flatten TV seasons"
+msgstr "Raggruppa Stagioni TV"
+
+msgctxt "#32318"
+msgid "Enable Fanart"
+msgstr "Abilita Fanart"
+
+msgctxt "#32319"
+msgid "Menu"
+msgstr "Menu"
+
+msgctxt "#32320"
+msgid "New Movies"
+msgstr "Nuovi Film"
+
+msgctxt "#32321"
+msgid "Featured"
+msgstr "In Primo Piano"
+
+msgctxt "#32322"
+msgid "People Watching"
+msgstr "Più Guardati"
+
+msgctxt "#32323"
+msgid "Most Popular"
+msgstr "Più Popolari"
+
+msgctxt "#32324"
+msgid "In Theaters"
+msgstr "Al Cinema"
+
+msgctxt "#32325"
+msgid "New Episodes"
+msgstr "Nuovi Episodi"
+
+msgctxt "#32326"
+msgid "Episodes"
+msgstr "Episodi"
+
+msgctxt "#32327"
+msgid "Trakt Progress"
+msgstr "Progresso Trakt"
+
+msgctxt "#32328"
+msgid "Trakt Episodes"
+msgstr "Episodi Trakt"
+
+msgctxt "#32329"
+msgid "My Lists"
+msgstr "Mie Liste"
+
+msgctxt "#32330"
+msgid "Playback"
+msgstr "Riproduzione"
+
+msgctxt "#32331"
+msgid "Default action"
+msgstr "Azione predefinita"
+
+msgctxt "#32332"
+msgid "Dialog"
+msgstr "Dialogo"
+
+msgctxt "#32333"
+msgid "Directory"
+msgstr "Cartella"
+
+msgctxt "#32334"
+msgid "Auto Play"
+msgstr "Riproduzione Automatica"
+
+msgctxt "#32335"
+msgid "Progress Dialog"
+msgstr "Avanzamento Dialogo"
+
+msgctxt "#32336"
+msgid "Foreground"
+msgstr "In primo piano"
+
+msgctxt "#32337"
+msgid "Background"
+msgstr "Sfondo"
+
+msgctxt "#32338"
+msgid "File Hosting Filters"
+msgstr "Filtri per l'Hosting dei File"
+
+msgctxt "#32339"
+msgid "Max Quality"
+msgstr "Qualità Massima"
+
+msgctxt "#32340"
+msgid "SD Hosters in Auto Play"
+msgstr "Host SD in Riproduzione Automatica"
+
+msgctxt "#32341"
+msgid "Hosters with captchas"
+msgstr "Host con captcha"
+
+msgctxt "#32342"
+msgid "Sort by Provider"
+msgstr "Ordina per Provider"
+
+msgctxt "#32343"
+msgid "When playback starts..."
+msgstr "Quando inizia la riproduzione..."
+
+msgctxt "#32344"
+msgid "Resume Playback"
+msgstr "Riprendi Riproduzione"
+
+msgctxt "#32345"
+msgid "Providers"
+msgstr "Provider"
+
+msgctxt "#32346"
+msgid "Accounts"
+msgstr "Account"
+
+msgctxt "#32347"
+msgid "Downloads"
+msgstr "Download"
+
+msgctxt "#32348"
+msgid "Enable downloads"
+msgstr "Abilita download"
+
+msgctxt "#32349"
+msgid "Movies"
+msgstr "Film"
+
+msgctxt "#32350"
+msgid "TV"
+msgstr "TV"
+
+msgctxt "#32351"
+msgid "Downloading features are disabled by default."
+msgstr "Le funzoni di download sono disabilitate di default."
+
+msgctxt "#32352"
+msgid "Set up your download folders in order to enable them."
+msgstr "Imposta le tue cartelle di download per abilitarli."
+
+msgctxt "#32353"
+msgid "Subtitles"
+msgstr "Sottotitoli"
+
+msgctxt "#32354"
+msgid "Enable subtitles"
+msgstr "Abilita sottotitoli"
+
+msgctxt "#32355"
+msgid "Convert subtitles to UTF-8"
+msgstr "Converti i sottotitoli in UTF-8"
+
+msgctxt "#32356"
+msgid "Primary Language"
+msgstr "Lingua Principale"
+
+msgctxt "#32357"
+msgid "Secondary Language"
+msgstr "Lingua Secondaria"
+
+msgctxt "#32358"
+msgid "Subtitles could be unavailable or out of sync."
+msgstr "I sottotitoli potrebbero non essere disponibili o fuori sync."
+
+msgctxt "#32359"
+msgid "In that case use your own subtitles."
+msgstr "In tale caso usate i vostri sottotitoli."
+
+msgctxt "#32360"
+msgid "Providers Language"
+msgstr "Lingua dei Provider"
+
+msgctxt "#32401"
+msgid "No stream available"
+msgstr "Nessuno stream disponibile"
+
+msgctxt "#32402"
+msgid "Playback outside Stefano Addon is not allowed"
+msgstr "La riproduzione al di fuori di Stefano Addon non è consentita"
+
+msgctxt "#32403"
+msgid "Download"
+msgstr "Scarica"
+
+msgctxt "#32404"
+msgid "Time elapsed: %s seconds"
+msgstr "Tempo trascorso: %s secondi"
+
+msgctxt "#32405"
+msgid "%s seconds"
+msgstr "%s secondi"
+
+msgctxt "#32406"
+msgid "Remaining providers: %s"
+msgstr "Provider rimanenti: %s"
+
+msgctxt "#32407"
+msgid "Are you sure?"
+msgstr "Sei sicuro?"
+
+msgctxt "#32408"
+msgid "Process Complete"
+msgstr "Processo Completato"
+
+msgctxt "#32501"
+msgid "Start from beginning"
+msgstr "Parti dall'inizio"
+
+msgctxt "#32502"
+msgid "Resume from %s"
+msgstr "Riprendi da %s"
+
+msgctxt "#32503"
+msgid "Resume"
+msgstr "Ripredi"
+
+msgctxt "#32511"
+msgid "An account already exists."
+msgstr "Un account è già esistente."
+
+msgctxt "#32512"
+msgid "Do you want to reset?"
+msgstr "Vuoi eseguire il reset?"
+
+msgctxt "#32513"
+msgid "1) Visit : [COLOR skyblue]%s[/COLOR]"
+msgstr "1) Visita : [COLOR skyblue]%s[/COLOR]"
+
+msgctxt "#32514"
+msgid "2) When prompted enter : [COLOR skyblue]%s[/COLOR]"
+msgstr "2) Quando richiesto, inserisci : [COLOR skyblue]%s[/COLOR]"
+
+msgctxt "#32515"
+msgid "Trakt Manager"
+msgstr "Manager Trakt"
+
+msgctxt "#32516"
+msgid "Add to [B]Collection[/B]"
+msgstr "Aggiungi a [B]Collezione[/B]"
+
+msgctxt "#32517"
+msgid "Remove from [B]Collection[/B]"
+msgstr "Rimuovi da [B]Collezione[/B]"
+
+msgctxt "#32518"
+msgid "Add to [B]Watchlist[/B]"
+msgstr "Aggiungi a [B]Watchlist[/B]"
+
+msgctxt "#32519"
+msgid "Remove from [B]Watchlist[/B]"
+msgstr "Rimuovi da [B]Watchlist[/B]"
+
+msgctxt "#32520"
+msgid "Add to [B]new List[/B]"
+msgstr "Aggiungi a [B]nuova Lista[/B]"
+
+msgctxt "#32521"
+msgid "Add to [B]%s[/B]"
+msgstr "Aggiungi a [B]%s[/B]"
+
+msgctxt "#32522"
+msgid "Remove from [B]%s[/B]"
+msgstr "Rimuovi da [B]%s[/B]"
+
+msgctxt "#32531"
+msgid "An account already exists."
+msgstr "Un account è già esistente."
+
+msgctxt "#32532"
+msgid "Do you want to reset?"
+msgstr "Vuoi eseguire il reset?"
+
+msgctxt "#32533"
+msgid "1) Visit : [COLOR skyblue]%s[/COLOR]"
+msgstr "1) Visita : [COLOR skyblue]%s[/COLOR]"
+
+msgctxt "#32534"
+msgid "2) When prompted enter : [COLOR skyblue]%s[/COLOR]"
+msgstr "2) Quando richiesto, inserisci : [COLOR skyblue]%s[/COLOR]"
+
+msgctxt "#32535"
+msgid "Play Random"
+msgstr "Riproduci in Ordine Casuale"
+
+msgctxt "#32536"
+msgid "Playing"
+msgstr "In Riproduzione"
+
+msgctxt "#32537"
+msgid "Nothing found to play"
+msgstr "Non è stato trovato nulla da riprodurre"
+
+msgctxt "#32538"
+msgid "DEBRID-SERVICE"
+msgstr "SERVIZIO-DEBRID"
+
+msgctxt "#32539"
+msgid "Configure Debrid Services in URLResolver Settings."
+msgstr "Configura Servizi Debrid nelle impostazioni URLResolver"
+
+msgctxt "#32540"
+msgid "URLResolver Settings"
+msgstr "Impostazioni URLResolver"
+
+msgctxt "#32541"
+msgid "Library"
+msgstr "Libreria"
+
+msgctxt "#32542"
+msgid "Stefano Addon folders will be imported to library if they are added to media sources."
+msgstr "Le cartelle di Stefano Addon verranno importate nella libreria se verranno aggiunte su Sorgenti Media."
+
+msgctxt "#32543"
+msgid "Movies"
+msgstr "Film"
+
+msgctxt "#32544"
+msgid "TV"
+msgstr "TV"
+
+msgctxt "#30715"
+msgid "Sistem"
+msgstr "Sistema"
+
+msgctxt "#32545"
+msgid "Auto update TV Shows"
+msgstr "Aggiornamento automatico Serie TV"
+
+msgctxt "#32546"
+msgid "Show notifications during update"
+msgstr "Visualizza notifiche durante l'aggiornamento"
+
+msgctxt "#32547"
+msgid "Update library after adding content"
+msgstr "Aggiorna libreria dopo l'aggiunta del contenuto"
+
+msgctxt "#32548"
+msgid "Avoid creating duplicate content"
+msgstr "Evita la creazione di contenuti duplicati"
+
+msgctxt "#32549"
+msgid "Check movie before adding it"
+msgstr "Controlla film prima di aggiungerlo"
+
+msgctxt "#32550"
+msgid "Check first episode of season before adding it"
+msgstr "Controlla primo epidodio della stagione prima di aggiungerlo"
+
+msgctxt "#32551"
+msgid "Add to Library"
+msgstr "Aggiungi a Libreria"
+
+msgctxt "#32552"
+msgid "Adding to library..."
+msgstr "Sto aggiungendo alla libreria..."
+
+msgctxt "#32553"
+msgid "Updating TV shows..."
+msgstr "Sto aggiornando le Serie TV..."
+
+msgctxt "#32554"
+msgid "Process Complete"
+msgstr "Processo completato"
+
+msgctxt "#32555"
+msgid "Are you sure?"
+msgstr "Sei sicuro?"
+
+msgctxt "#32556"
+msgid "[B]Stefano Addon[/B] : Library"
+msgstr "[B]Stefano Addon[/B] : Libreria"
+
+msgctxt "#32557"
+msgid "[B]LIBRARY[/B] : Settings"
+msgstr "[B]LIBRERIA[/B] : Impostazioni"
+
+msgctxt "#32558"
+msgid "[B]Stefano Addon[/B] : Update library..."
+msgstr "[B]Stefano Addon[/B] : Aggiorna libreria..."
+
+msgctxt "#32559"
+msgid "[B]Stefano Addon[/B] : Movie folder..."
+msgstr "[B]Stefano Addon[/B] : Cartella film..."
+
+msgctxt "#32560"
+msgid "[B]Stefano Addon[/B] : TV folder..."
+msgstr "[B]Stefano Addon[/B] : Cartella Serie TV..."
+
+msgctxt "#32561"
+msgid "[B]TRAKT[/B] : Import Collection..."
+msgstr "[B]TRAKT[/B] : Importa Collezione..."
+
+msgctxt "#32562"
+msgid "[B]TRAKT[/B] : Import Watchlist..."
+msgstr "[B]TRAKT[/B] : Importa Watchlist..."
+
+msgctxt "#32563"
+msgid "[B]TRAKT[/B] : Import TV Collection..."
+msgstr "[B]TRAKT[/B] : Importa Collezione TV"
+
+msgctxt "#32564"
+msgid "[B]TRAKT[/B] : Import TV Watchlist..."
+msgstr "[B]TRAKT[/B] : Importa Watchlist TV..."
+
+msgctxt "#32565"
+msgid "Include episodes with unknown air dates"
+msgstr "Includi episodi con data di trasmissione sconosciuta"
+
+msgctxt "#32570"
+msgid "Show unaired seasons/episodes"
+msgstr "Visualizza stagioni/episodi non tramessi"
+
+msgctxt "#32571"
+msgid "Hide movies in cinema"
+msgstr "Nascondi film nei cinema"
+
+msgctxt "#32372"
+msgid "When playback ends..."
+msgstr "Quando la riproduzione finisce..."
+
+msgctxt "#32373"
+msgid "Force container refresh"
+msgstr "Forza aggiornamento container"
+
+msgctxt "#32580"
+msgid "Films/TV Movies"
+msgstr "Film/Film TV"
+
+msgctxt "#32581"
+msgid "Results Limit"
+msgstr "Limite risultati"
+
+msgctxt "#32582"
+msgid "Personal API keys provide quicker API responses."
+msgstr "Le chiavi API personali forniscono risultati più rapidi."
+
+msgctxt "#32583"
+msgid "Become a VIP member for many benefits at: https://fanart.tv/vip"
+msgstr "Diventa un utente VIP per ottenere maggiori benefici su: https://fanart.tv/vip"
+
+msgctxt "#32584"
+msgid "Sort order for Trakt Watched Progress"
+msgstr "Ordina secondo l'avanzamento Trakt Watched"
+
+msgctxt "#32585"
+msgid "Recently aired"
+msgstr "Trasmessi di recente"
+
+msgctxt "#32586"
+msgid "Recently watched"
+msgstr "Visti di recente"
+
+msgctxt "#32587"
+msgid "Show Extra Source Info"
+msgstr "Mostra informazioni da fonti aggiuntive"
+
+msgctxt "#32588"
+msgid "Premium Source Identifier Color"
+msgstr "Colore identificativo fonti Premium"
+
+msgctxt "#32589"
+msgid "Blue"
+msgstr "Blu"
+
+msgctxt "#32590"
+msgid "Red"
+msgstr "Rosso"
+
+msgctxt "#32591"
+msgid "Yellow"
+msgstr "Giallo"
+
+msgctxt "#32592"
+msgid "Deep Pink"
+msgstr "Rosa scuro"
+
+msgctxt "#32593"
+msgid "Cyan"
+msgstr "Ciano"
+
+msgctxt "#32594"
+msgid "Lawn Green"
+msgstr "Verde prato"
+
+msgctxt "#32595"
+msgid "Gold"
+msgstr "Oro"
+
+msgctxt "#32596"
+msgid "Magenta"
+msgstr "Magenta"
+
+msgctxt "#32597"
+msgid "Yellow Green"
+msgstr "Gialloverde"
+
+msgctxt "#32598"
+msgid "No Color"
+msgstr "Nessun colore"
+
+msgctxt "#32599"
+msgid "Getting genre information from Trakt"
+msgstr "Acquisisco informazioni sul genere da Trakt"
+
+msgctxt "#32600"
+msgid "Preparing sources"
+msgstr "Preparo fonti"
+
+msgctxt "#32601"
+msgid "Total"
+msgstr "Totale"
+
+msgctxt "#32602"
+msgid "Waiting for"
+msgstr "In attesa di"
+
+msgctxt "#32603"
+msgid "New search..."
+msgstr "Nuova ricerca..."
+
+msgctxt "#32604"
+msgid "[B]Stefano Addon[/B] : Clear search history..."
+msgstr "[B]Stefano Addon[/B] : Elimina cronologia ricerche..."
+
+msgctxt "#32605"
+msgid "Click to clear search history"
+msgstr "Clicca per eliminare la cronologia ricerche"
+
+msgctxt "#32606"
+msgid "Prem"
+msgstr "Premium"
+
+msgctxt "#32607"
+msgid "Normal"
+msgstr "Normale"
+
+
+
+msgctxt "#32610"
+msgid "Kids Corner"
+msgstr "Kids Corner"
+
+msgctxt "#32611"
+msgid "Fitness Zone"
+msgstr "Fitness Zone"
+
+msgctxt "#32612"
+msgid "Legends of Music"
+msgstr "Legends of Music"
+
+
+msgctxt "#32620"
+msgid "Podcasts"
+msgstr "Podcasts"
+
+
+msgctxt "#32621"
+msgid "Navigation"
+msgstr "Navigation"
+
+msgctxt "#32622"
+msgid "Main Menu"
+msgstr "Menù Principale"
+
+msgctxt "#32623"
+msgid "Reviews and Trailers"
+msgstr "Reviews and Trailers"
+
+
+
+msgctxt "#32624"
+msgid "P[COLOR red]o[/COLOR]dcast[COLOR red]One[/COLOR]"
+msgstr "P[COLOR red]o[/COLOR]dcast[COLOR red]One[/COLOR]"
+
+msgctxt "#32625"
+msgid "Featured Podcasts"
+msgstr "Podcast in primo piano"
+
+msgctxt "#32626"
+msgid "New Podcasts"
+msgstr "Nuovi Podcast"
+
+msgctxt "#32627"
+msgid "Categories"
+msgstr "Categorie"
+
+
+msgctxt "#32629"
+msgid "PodBay"
+msgstr "PodBay"
+
+
+
+msgctxt "#32631"
+msgid "Documentaries"
+msgstr "Documentari"
+
+msgctxt "#30000"
+msgid "Lettore predefinito (XBOX only):"
+msgstr "Lettore predefinito (XBOX only):"
+
+msgctxt "#30001"
+msgid "Controlla aggiornamenti:"
+msgstr "Controlla aggiornamenti:"
+
+msgctxt "#30004"
+msgid "Aggiornamento automatico canali:"
+msgstr "Aggiornamento automatico canali:"
+
+msgctxt "#30201"
+msgid "Actualizar la biblioteca al abrir XBMC"
+msgstr "Actualizar la biblioteca al abrir XBMC"
+
+msgctxt "#30002"
+msgid "Abilita modalità adult:"
+msgstr "Abilita modalità adult:"
+
+msgctxt "#30003"
+msgid "Abilita logging di debug:"
+msgstr "Abilita logging di debug:"
+
+msgctxt "#30043"
+msgid "Forza modalità di visualizzazione:"
+msgstr "Forza modalità di visualizzazione:"
+
+msgctxt "#30005"
+msgid "Impostazioni predefinite di riproduzione:"
+msgstr "Impostazioni predefinite di riproduzione:"
+
+msgctxt "#30006"
+msgid "Chiedi"
+msgstr "Chiedi"
+
+msgctxt "#30007"
+msgid "Guarda in bassa qualità"
+msgstr "Guarda in bassa qualità"
+
+msgctxt "#30008"
+msgid "Guarda in alta qualità"
+msgstr "Guarda in alta qualità"
+
+msgctxt "#30010"
+msgid "Visualizzazione icone dei canali:"
+msgstr "Visualizzazione icone dei canali:"
+
+msgctxt "#30011"
+msgid "Poster (verticale)"
+msgstr "Poster (verticale)"
+
+msgctxt "#30012"
+msgid "Banner (orizzontale)"
+msgstr "Banner (orizzontale)"
+
+msgctxt "#30200"
+msgid "Square"
+msgstr "Square"
+
+msgctxt "#30014"
+msgid "Nome utente:"
+msgstr "Nome utente:"
+
+msgctxt "#30015"
+msgid "Password:"
+msgstr "Password:"
+
+msgctxt "#30031"
+msgid "Qualità video (FLV)"
+msgstr "Qualità video (FLV)"
+
+msgctxt "#30032"
+msgid "Definizione standard (SD)"
+msgstr "Definizione standard (SD)"
+
+msgctxt "#30033"
+msgid "Alta Definizione (HD)(quando disponibile)"
+msgstr "Alta Definizione (HD)(quando disponibile)"
+
+msgctxt "#30034"
+msgid "Login pagine private:"
+msgstr "Login pagine private:"
+
+msgctxt "#30035"
+msgid "Password pagine private:"
+msgstr "Password pagine private:"
+
+msgctxt "#30017"
+msgid "Percorso download:"
+msgstr "Percorso download:"
+
+msgctxt "#30018"
+msgid "Percorso lista download:"
+msgstr "Percorso lista download:"
+
+msgctxt "#30030"
+msgid "Percorso preferiti:"
+msgstr "Percorso preferiti:"
+
+msgctxt "#30067"
+msgid "Percorso biblioteca STRM:"
+msgstr "Percorso biblioteca STRM:"
+
+msgctxt "#30020"
+msgid "Qualità migliore (Youtube)"
+msgstr "Qualità migliore (Youtube)"
+
+msgctxt "#30021"
+msgid "Abilita sottotitoli:"
+msgstr "Abilita sottotitoli:"
+
+msgctxt "#30066"
+msgid "URL pyLoad:"
+msgstr "URL pyLoad:"
+
+msgctxt "#30024"
+msgid "Numero di ricerche da salvare:"
+msgstr "Numero di ricerche da salvare:"
+
+msgctxt "#30019"
+msgid "Filtra canali per lingua:"
+msgstr "Filtra canali per lingua:"
+
+msgctxt "#30025"
+msgid "Tutte le lingue"
+msgstr "Tutte le lingue"
+
+msgctxt "#30026"
+msgid "Spanish"
+msgstr "Spanish"
+
+msgctxt "#30027"
+msgid "English"
+msgstr "English"
+
+msgctxt "#30028"
+msgid "Italiano"
+msgstr "Italiano"
+
+msgctxt "#30029"
+msgid "Portuguese"
+msgstr "Portuguese"
+
+msgctxt "#30046"
+msgid "French"
+msgstr "French"
+
+msgctxt "#30016"
+msgid "Catalán"
+msgstr "Catalán"
+
+msgctxt "#30023"
+msgid "Euskera"
+msgstr "Euskera"
+
+msgctxt "#30036"
+msgid "Gallego"
+msgstr "Gallego"
+
+msgctxt "#30037"
+msgid "Valenciano"
+msgstr "Valenciano"
+
+msgctxt "#30038"
+msgid "Modalità cache:"
+msgstr "Modalità cache:"
+
+msgctxt "#30039"
+msgid "Auto"
+msgstr "Auto"
+
+msgctxt "#30040"
+msgid "Tutti i cache"
+msgstr "Tutti i cache"
+
+msgctxt "#30041"
+msgid "Nessun cache"
+msgstr "Nessun cache"
+
+msgctxt "#30042"
+msgid "Percorso cache:"
+msgstr "Percorso cache:"
+
+msgctxt "#30044"
+msgid "Modalità riproduzione:"
+msgstr "Modalità riproduzione:"
+
+msgctxt "#30013"
+msgid "Enable personal channel"
+msgstr "Enable personal channel"
+
+msgctxt "#30048"
+msgid "Channel name"
+msgstr "Channel name"
+
+msgctxt "#30049"
+msgid "Channel logo"
+msgstr "Channel logo"
+
+msgctxt "#30045"
+msgid "Video list URL / file"
+msgstr "Video list URL / file"
+
+msgctxt "#30047"
+msgid "Elements per page"
+msgstr "Elements per page"
+
+msgctxt "#30068"
+msgid "Filtro per server:"
+msgstr "Filtro per server:"
+
+msgctxt "#30069"
+msgid "White List:"
+msgstr "White List:"
+
+msgctxt "#30070"
+msgid "Blacklist:"
+msgstr "Blacklist:"
+
+msgctxt "#30071"
+msgid "Per mettere più server che utilizzano ',' come separatore"
+msgstr "Per mettere più server che utilizzano ',' come separatore"
+
+msgctxt "#30050"
+msgid "Errore connessione server"
+msgstr "Errore connessione server"
+
+msgctxt "#30051"
+msgid "Messaggio d'errore sito web (codice http %d)"
+msgstr "Messaggio d'errore sito web (codice http %d)"
+
+msgctxt "#30052"
+msgid "Megavideo ha un limite di 72 minuti"
+msgstr "Megavideo ha un limite di 72 minuti"
+
+msgctxt "#30053"
+msgid "Per utenti free. Il limite non è applicato agli utenti"
+msgstr "Per utenti free. Il limite non è applicato agli utenti"
+
+msgctxt "#30054"
+msgid "Necessita il login in un account premium"
+msgstr "Necessita il login in un account premium"
+
+msgctxt "#30055"
+msgid "Video non disponibile"
+msgstr "Video non disponibile"
+
+msgctxt "#30056"
+msgid "Non ci sono video disponibili nella pagina web"
+msgstr "Non ci sono video disponibili nella pagina web"
+
+msgctxt "#30057"
+msgid "Il video è stato rimosso da %s"
+msgstr "Il video è stato rimosso da %s"
+
+msgctxt "#30058"
+msgid "Prova un altro server o canale"
+msgstr "Prova un altro server o canale"
+
+msgctxt "#30059"
+msgid "Errore sito web"
+msgstr "Errore sito web"
+
+msgctxt "#30060"
+msgid "Impossibile accedere a causa di un errore del sito"
+msgstr "Impossibile accedere a causa di un errore del sito"
+
+msgctxt "#30061"
+msgid "Qualità non disponibile o video rimosso"
+msgstr "Qualità non disponibile o video rimosso"
+
+msgctxt "#30062"
+msgid "Prova un' altra qualità"
+msgstr "Prova un' altra qualità"
+
+msgctxt "#30063"
+msgid "Questo canale è state scaricato ed aggiornato!"
+msgstr "Questo canale è state scaricato ed aggiornato!"
+
+msgctxt "#30064"
+msgid "Lista ¡Channel aggiornata!"
+msgstr "Lista ¡Channel aggiornata!"
+
+msgctxt "#30065"
+msgid "Server non supportato"
+msgstr "Server non supportato"
+
+msgctxt "#30100"
+msgid "Configurazione"
+msgstr "Configurazione"
+
+msgctxt "#30101"
+msgid "Downloads"
+msgstr "Downloads"
+
+msgctxt "#30102"
+msgid "Preferiti"
+msgstr "Preferiti"
+
+msgctxt "#30103"
+msgid "Ricerca globale"
+msgstr "Ricerca globale"
+
+msgctxt "#30104"
+msgid "Aiuto"
+msgstr "Aiuto"
+
+msgctxt "#30105"
+msgid "Rimosso dai preferiti"
+msgstr "Rimosso dai preferiti"
+
+msgctxt "#30106"
+msgid "Rimosso dalla lista download"
+msgstr "Rimosso dalla lista download"
+
+msgctxt "#30107"
+msgid "Spostato nella lista download"
+msgstr "Spostato nella lista download"
+
+msgctxt "#30108"
+msgid "Aggiunto ai preferiti"
+msgstr "Aggiunto ai preferiti"
+
+msgctxt "#30109"
+msgid "Aggiunto alla lista download"
+msgstr "Aggiunto alla lista download"
+
+msgctxt "#30110"
+msgid "Cerco trailer per"
+msgstr "Cerco trailer per"
+
+msgctxt "#30111"
+msgid "Riprova ricerca trailer"
+msgstr "Riprova ricerca trailer"
+
+msgctxt "#30112"
+msgid "Inserisci titolo da cercare"
+msgstr "Inserisci titolo da cercare"
+
+msgctxt "#30113"
+msgid "Modifica titolo attuale per affinare la ricerca"
+msgstr "Modifica titolo attuale per affinare la ricerca"
+
+msgctxt "#30114"
+msgid "Trailer non trovato"
+msgstr "Trailer non trovato"
+
+msgctxt "#30115"
+msgid "Trailer per %s"
+msgstr "Trailer per %s"
+
+msgctxt "#30116"
+msgid "Non può essere trovato"
+msgstr "Non può essere trovato"
+
+msgctxt "#30117"
+msgid "Vuoi refiner la ricerca utilizzando la tastiera?"
+msgstr "Vuoi refiner la ricerca utilizzando la tastiera?"
+
+msgctxt "#30135"
+msgid "Aggiunto alla libreria"
+msgstr "Aggiunto alla libreria"
+
+msgctxt "#30130"
+msgid "Nuovo"
+msgstr "Nuovo"
+
+msgctxt "#30118"
+msgid "Canali"
+msgstr "Canali"
+
+msgctxt "#30119"
+msgid "Categorie"
+msgstr "Categorie"
+
+msgctxt "#30120"
+msgid "Scegli una lingua"
+msgstr "Scegli una lingua"
+
+msgctxt "#30121"
+msgid "Tutti i Canali"
+msgstr "Tutti i Canali"
+
+msgctxt "#30122"
+msgid "Film"
+msgstr "Film"
+
+msgctxt "#30123"
+msgid "Show televisivi"
+msgstr "Show televisivi"
+
+msgctxt "#30124"
+msgid "Anime"
+msgstr "Anime"
+
+msgctxt "#30125"
+msgid "Documentari"
+msgstr "Documentari"
+
+msgctxt "#30136"
+msgid "Versioni originali"
+msgstr "Versioni originali"
+
+msgctxt "#30126"
+msgid "Adulti"
+msgstr "Adulti"
+
+msgctxt "#30127"
+msgid "Latino"
+msgstr "Latino"
+
+msgctxt "#30128"
+msgid "Cerca trailer"
+msgstr "Cerca trailer"
+
+msgctxt "#30129"
+msgid "Adulto"
+msgstr "Adulto"
+
+msgctxt "#30131"
+msgid "Libreria"
+msgstr "Libreria"
+
+msgctxt "#30132"
+msgid "Tema"
+msgstr "Tema"
+
+msgctxt "#30133"
+msgid "Internet"
+msgstr "Internet"
+
+msgctxt "#30134"
+msgid "Nuovi"
+msgstr "Nuovi"
+
+msgctxt "#30137"
+msgid "Ricerca Globale"
+msgstr "Ricerca Globale"
+
+msgctxt "#30138"
+msgid "Aggiorna Canali/Server"
+msgstr "Aggiorna Canali/Server"
+
+msgctxt "#50000"
+msgid "Saghe"
+msgstr "Saghe"
+
+msgctxt "#50001"
+msgid "Oggi in TV"
+msgstr "Oggi in TV"
+
+msgctxt "#50002"
+msgid "Novità"
+msgstr "Novità"
+
+msgctxt "#50003"
+msgid "Liste Netflix"
+msgstr "Liste Netflix"
+
+msgctxt "#30150"
+msgid "Guarda in alta qualità"
+msgstr "Guarda in alta qualità"
+
+msgctxt "#30151"
+msgid "Guarda il video"
+msgstr "Guarda il video"
+
+msgctxt "#30152"
+msgid "Guarda in bassa qualità"
+msgstr "Guarda in bassa qualità"
+
+msgctxt "#88247"
+msgid "Download"
+msgstr "Download"
+
+msgctxt "#30154"
+msgid "Rimuovi dai preferiti"
+msgstr "Rimuovi dai preferiti"
+
+msgctxt "#30155"
+msgid "Aggiungi ai preferiti"
+msgstr "Aggiungi ai preferiti"
+
+msgctxt "#30156"
+msgid "Rimuovi dalla lista download"
+msgstr "Rimuovi dalla lista download"
+
+msgctxt "#30157"
+msgid "Aggiunto alla lista download"
+msgstr "Aggiunto alla lista download"
+
+msgctxt "#30159"
+msgid "Rimuovi dalla lista download definitivamente"
+msgstr "Rimuovi dalla lista download definitivamente"
+
+msgctxt "#30160"
+msgid "Sposta nuovamente nella lista download"
+msgstr "Sposta nuovamente nella lista download"
+
+msgctxt "#30161"
+msgid "Aggiungi alla libreria"
+msgstr "Aggiungi alla libreria"
+
+msgctxt "#30162"
+msgid "Cerca trailer"
+msgstr "Cerca trailer"
+
+msgctxt "#30163"
+msgid "Scegli un' opzione"
+msgstr "Scegli un' opzione"
+
+msgctxt "#30164"
+msgid "Cancella questo file"
+msgstr "Cancella questo file"
+
+msgctxt "#30300"
+msgid "Cancella ricerche salvate"
+msgstr "Cancella ricerche salvate"
+
+msgctxt "#30301"
+msgid "Aggingi il canale in diretta ai preferiti"
+msgstr "Aggingi il canale in diretta ai preferiti"
+
+msgctxt "#30302"
+msgid "Rimuovi il canale in diretta ai preferiti"
+msgstr "Rimuovi il canale in diretta ai preferiti"
+
+msgctxt "#30303"
+msgid "Rinomina titolo del canale in diretta"
+msgstr "Rinomina titolo del canale in diretta"
+
+msgctxt "#30401"
+msgid "channels wall"
+msgstr "channels wall"
+
+msgctxt "#30402"
+msgid "Categories"
+msgstr "Categories"
+
+msgctxt "#30403"
+msgid "Favorites channels "
+msgstr "Favorites channels "
+
+msgctxt "#30404"
+msgid "Play channel Live by ID"
+msgstr "Play channel Live by ID"
+
+msgctxt "#30405"
+msgid "Input channel ID code"
+msgstr "Input channel ID code"
+
+msgctxt "#30406"
+msgid "Aggiungi ai preferiti Jtv"
+msgstr "Aggiungi ai preferiti Jtv"
+
+msgctxt "#30407"
+msgid "Rimuovi dai preferiti Jtv"
+msgstr "Rimuovi dai preferiti Jtv"
+
+msgctxt "#30408"
+msgid " (Archivi)"
+msgstr " (Archivi)"
+
+msgctxt "#30409"
+msgid "Archivi canali video"
+msgstr "Archivi canali video"
+
+msgctxt "#30410"
+msgid "Guarda canale in diretta"
+msgstr "Guarda canale in diretta"
+
+msgctxt "#30411"
+msgid "Il canale non esiste o è offline"
+msgstr "Il canale non esiste o è offline"
+
+msgctxt "#30412"
+msgid "Il canale non ha archivi video"
+msgstr "Il canale non ha archivi video"
+
+msgctxt "#30413"
+msgid "Video archiviati"
+msgstr "Video archiviati"
+
+msgctxt "#30414"
+msgid "Canali in diretta"
+msgstr "Canali in diretta"
+
+msgctxt "#30415"
+msgid "Inserisci nome canale"
+msgstr "Inserisci nome canale"
+
+msgctxt "#30416"
+msgid "Preferiti"
+msgstr "Preferiti"
+
+msgctxt "#30417"
+msgid "Ricerca"
+msgstr "Ricerca"
+
+msgctxt "#30418"
+msgid "Login Justin tv"
+msgstr "Login Justin tv"
+
+msgctxt "#30419"
+msgid "Tutte le lingue"
+msgstr "Tutte le lingue"
+
+msgctxt "#30420"
+msgid "Filtra per lingua(e)"
+msgstr "Filtra per lingua(e)"
+
+msgctxt "#30421"
+msgid "Tutto"
+msgstr "Tutto"
+
+msgctxt "#30422"
+msgid "Inserisci Login Justin tv"
+msgstr "Inserisci Login Justin tv"
+
+msgctxt "#30423"
+msgid "Il canale [%s] è offline in questo momento"
+msgstr "Il canale [%s] è offline in questo momento"
+
+msgctxt "#30424"
+msgid "Password Justin.tv"
+msgstr "Password Justin.tv"
+
+msgctxt "#30430"
+msgid "Sottotitoli"
+msgstr "Sottotitoli"
+
+msgctxt "#30431"
+msgid "Scelta fonte sottotitoli :"
+msgstr "Scelta fonte sottotitoli :"
+
+msgctxt "#30432"
+msgid "Cartella"
+msgstr "Cartella"
+
+msgctxt "#30433"
+msgid "File"
+msgstr "File"
+
+msgctxt "#30434"
+msgid "Tastiera"
+msgstr "Tastiera"
+
+msgctxt "#30435"
+msgid "Directory sottotitoli"
+msgstr "Directory sottotitoli"
+
+msgctxt "#30436"
+msgid "File sottotitoli"
+msgstr "File sottotitoli"
+
+msgctxt "#30437"
+msgid "Premi l' indirizzo"
+msgstr "Premi l' indirizzo"
+
+msgctxt "#30500"
+msgid "Login"
+msgstr "Login"
+
+msgctxt "#30501"
+msgid "Percorso"
+msgstr "Percorso"
+
+msgctxt "#30502"
+msgid "Altro"
+msgstr "Altro"
+
+msgctxt "#40001"
+msgid "Film - Appena aggiunti"
+msgstr "Film - Appena aggiunti"
+
+msgctxt "#40002"
+msgid "Show televisivi - Appena aggiunti"
+msgstr "Show televisivi - Appena aggiunti"
+
+msgctxt "#40003"
+msgid "Pagina successiva"
+msgstr "Pagina successiva"
+
+msgctxt "#30900"
+msgid "TVShack"
+msgstr "TVShack"
+
+msgctxt "#30901"
+msgid "Serie TV (VO)"
+msgstr "Serie TV (VO)"
+
+msgctxt "#30902"
+msgid "Film (VO)"
+msgstr "Film (VO)"
+
+msgctxt "#30903"
+msgid "Documentari (VO)"
+msgstr "Documentari (VO)"
+
+msgctxt "#30904"
+msgid "Anime (VO)"
+msgstr "Anime (VO)"
+
+msgctxt "#30905"
+msgid "Musica"
+msgstr "Musica"
+
+msgctxt "#30906"
+msgid "Ricerca globale in TVShack"
+msgstr "Ricerca globale in TVShack"
+
+msgctxt "#30907"
+msgid "Non sono stati trovati risultati per la ricerca"
+msgstr "Non sono stati trovati risultati per la ricerca"
+
+msgctxt "#30908"
+msgid "Serie - %s (%s episodios)"
+msgstr "Serie - %s (%s episodios)"
+
+msgctxt "#30909"
+msgid "Serie - "
+msgstr "Serie - "
+
+msgctxt "#30910"
+msgid "Cinema - %s (%s)"
+msgstr "Cinema - %s (%s)"
+
+msgctxt "#30911"
+msgid "Musica - "
+msgstr "Musica - "
+
+msgctxt "#30912"
+msgid "Lettura %s..."
+msgstr "Lettura %s..."
+
+msgctxt "#30913"
+msgid "Non è stato trovato nella lista"
+msgstr "Non è stato trovato nella lista"
+
+msgctxt "#30914"
+msgid "Episodio"
+msgstr "Episodio"
+
+msgctxt "#30915"
+msgid "Episodi"
+msgstr "Episodi"
+
+msgctxt "#30916"
+msgid "Canzone"
+msgstr "Canzone"
+
+msgctxt "#30917"
+msgid "Canzoni"
+msgstr "Canzoni"
+
+msgctxt "#30918"
+msgid "(Nuovo)"
+msgstr "(Nuovo)"
+
+msgctxt "#30919"
+msgid "(Nuovi contenuti)"
+msgstr "(Nuovi contenuti)"
+
+msgctxt "#30920"
+msgid "Aggiungi tutti gli episodi alla libreria"
+msgstr "Aggiungi tutti gli episodi alla libreria"
+
+msgctxt "#31000"
+msgid "Traduttore attivato:"
+msgstr "Traduttore attivato:"
+
+msgctxt "#30140"
+msgid "Titolo"
+msgstr "Titolo"
+
+msgctxt "#30165"
+msgid "Premi OK per modificare…"
+msgstr "Premi OK per modificare…"
+
+msgctxt "#30166"
+msgid "Salva le modifiche"
+msgstr "Salva le modifiche"
+
+msgctxt "#30167"
+msgid "Lascia"
+msgstr "Lascia"
+
+msgctxt "#30168"
+msgid "Modifiche applicate"
+msgstr "Modifiche applicate"
+
+msgctxt "#30169"
+msgid "Cerca"
+msgstr "Cerca"
+
+msgctxt "#30170"
+msgid "Aggiornamento canali:"
+msgstr "Aggiornamento canali:"
+
+msgctxt "#30980"
+msgid "Cerca Titolo"
+msgstr "Cerca Titolo"
+
+msgctxt "#30981"
+msgid "Cerca Persona"
+msgstr "Cerca Persona"
+
+msgctxt "#30982"
+msgid "Cerca Società"
+msgstr "Cerca Società"
+
+msgctxt "#30983"
+msgid "Oggi in Sala"
+msgstr "Oggi in Sala"
+
+msgctxt "#30984"
+msgid "I Più Popolari"
+msgstr "I Più Popolari"
+
+msgctxt "#30985"
+msgid "I Migliori"
+msgstr "I Migliori"
+
+msgctxt "#30986"
+msgid "Cerca Collezione"
+msgstr "Cerca Collezione"
+
+msgctxt "#30987"
+msgid "Generi"
+msgstr "Generi"
+
+msgctxt "#30988"
+msgid "Cerca Anno"
+msgstr "Cerca Anno"
+
+msgctxt "#30989"
+msgid "Cerca Film simili"
+msgstr "Cerca Film simili"
+
+msgctxt "#30990"
+msgid "Cerca Serie TV"
+msgstr "Cerca Serie TV"
+
+msgctxt "#30991"
+msgid "Libreria"
+msgstr "Libreria"
+
+msgctxt "#30992"
+msgid "Successivi"
+msgstr "Successivi"
+
+msgctxt "#30993"
+msgid "Ricerca di %s..."
+msgstr "Ricerca di %s..."
+
+msgctxt "#30994"
+msgid "Sto cercando in %s..."
+msgstr "Sto cercando in %s..."
+
+msgctxt "#30995"
+msgid "%d trovati sinora: %s"
+msgstr "%d trovati sinora: %s"
+
+msgctxt "#30996"
+msgid "I Più Votati"
+msgstr "I Più Votati"
+
+msgctxt "#30997"
+msgid "Premi Oscar"
+msgstr "Premi Oscar"
+
+msgctxt "#30998"
+msgid "Ultimi 2 mesi"
+msgstr "Ultimi 2 mesi"
+
+msgctxt "#30999"
+msgid "Informazioni Film"
+msgstr "Informazioni Film"
+
+msgctxt "#30979"
+msgid "Informazioni Persona"
+msgstr "Informazioni Persona"
+
+msgctxt "#30978"
+msgid "Nuove SerieTV"
+msgstr "Nuove SerieTV"
+
+msgctxt "#30977"
+msgid "Ultimi Episodi - On-Air"
+msgstr "Ultimi Episodi - On-Air"
+
+msgctxt "#30976"
+msgid "SerieTV - Airing Today"
+msgstr "SerieTV - Airing Today"

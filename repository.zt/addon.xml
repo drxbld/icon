@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.zt" name="[COLORred]Z[/COLOR] [COLORwhite]T[/COLOR] Repository" version="5.5" provider-name="Team ZT">
+		<extension point="xbmc.addon.repository" name="Bla Bla Repository">
+	<dir>
+		<info compressed="false">https://raw.githubusercontent.com/noobsandnerds/modules4all/master/zips/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/noobsandnerds/modules4all/master/zips/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/noobsandnerds/modules4all/master/zips/</datadir>
+	</dir>
+	<dir>
+	<info compressed="false">https://raw.githubusercontent.com/totalrevolution/python-koding/master/zips/addons.xml</info>
+      <checksum>https://raw.githubusercontent.com/totalrevolution/python-koding/master/zips/addons.xml.md5</checksum>
+      <datadir zip="true">https://raw.githubusercontent.com/totalrevolution/python-koding/master/zips/</datadir>
+    </dir>
+	<dir>
+            <info compressed="false">https://raw.githubusercontent.com/teamuniversal/scrapers/master/_modules4all/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/teamuniversal/scrapers/master/_modules4all/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/teamuniversal/scrapers/master/_modules4all/zips/</datadir>
+     </dir>
+	 <dir>
+			<info compressed="false">http://xusecawerise.gq/repo/addons.xml</info>
+			<checksum>http://xusecawerise.gq/repo/addonsmd5.txt</checksum>
+			<datadir zip="true">http://xusecawerise.gq/repo/addons/</datadir>
+	</dir>
+	 <dir>
+        <info compressed="false">https://raw.githubusercontent.com/Dev-kong/repository.kong/master/addons.xml</info>
+        <checksum>https://raw.githubusercontent.com/Dev-kong/repository.kong/master/addons.xml.md5</checksum>
+        <datadir zip="true">https://raw.githubusercontent.com/Dev-kong/repository.kong/master/zips/</datadir>
+	</dir>	
+		</extension>
+		<extension point="xbmc.addon.metadata">
+			<summary></summary>
+			<description></description>
+			<platform>all</platform>
+		</extension>
+</addon>

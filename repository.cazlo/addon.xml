@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <addon id="repository.cazlo" name="Cazlo Repository" version="2.0.0" provider-name="Cazlo">
+        <requires>
+            <import addon="xbmc.addon" version="12.0.0"/>
+        </requires>
+        <extension point="xbmc.addon.repository" name="Cazlo Repository">
+            <info compressed="false">https://raw.githubusercontent.com/cazloz/cazlo-repo/master/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/cazloz/cazlo-repo/master/addons.xml.md5</checksum>
+            <datadir zip="true">https://github.com/cazloz/cazlo-repo/raw/master/zips</datadir>
+            <hashes>false</hashes>
+        </extension>
+        <extension point="xbmc.addon.metadata">
+            <summary>Cazlo Kodi Repository</summary>
+            <description>This repository contains some of the highest quality addons for Kodi. http://cazlo.com/repo </description>
+            <platform>all</platform>
+    </extension>
+</addon>

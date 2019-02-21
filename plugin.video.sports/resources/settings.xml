@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+	<category label="General">
+		<setting id="allow" type="bool" label="Allow Notifications" default="false"/>
+		<setting id="multi" type="bool" label="Show Simultaneous (Sports Ticker)" default="false"/>
+		<setting id="interval" type="select" label="Update Interval (Minutes)" 
+				 values="1|2|3|4|5|10|15|30|60" default="1"/>
+		<setting id="Ntimeout" type="select" label="Notification Timeout (Seconds)" 
+				 values="5|6|7|8|9|10|15|30" default="7" enable="eq(-3,true)+eq(-2,false)"/>
+		<setting id="Ttimeout" type="select" label="Ticker Timeout (Seconds Per Sport, Per 3 Games)" 
+				 values="5|6|7|8|9|10|15|30" default="7" enable="eq(-4,true)+eq(-3,true)"/>
+		<setting id="wizard" type="action" label="Re-Run Setup Wizard" 
+				 action="RunPlugin(plugin://plugin.video.sports/?action=settings&league=reset)"/>
+		<setting id="donations" type="action" label="[COLOR limegreen][B]$ Donate $[/B][/COLOR]" 
+				 action="RunPlugin(plugin://plugin.video.sports/?action=settings)"/>
+		<setting id="lastmonth" type="date" label="Last month the donation window was shown" visible="false" default="062018"/>
+		<setting id="firstrun" type="bool" label="Used to configure the service" visible="false" default="true"/>
+		<setting id="sgVersion" type="text" label="Used to show new update notes" visible="false" default="1.0.7"/>
+		<setting id="sgValid" type="bool" label="Whether the add-on is up-to-date" visible="false" default="true"/>
+		<setting id="pin" type="text" label="Used for game replays and live streams" visible="false" default="EXPIRED"/>
+		<setting id="tz" type="text" label="Used to localize live game times" visible="false" default=""/>
+	</category>
+	
+	<category label="NBA">
+		<setting id="nba_enable" type="bool" label="Show Notifications" default="false"/>
+		<setting id="nba_manageteams" type="action" label="Manage Teams" enable="eq(-1,true)" 
+				 action="RunPlugin(plugin://plugin.video.sports/?sport=nba&action=settings)"/>
+		
+		<setting type="lsep" label="Notification Types"/>
+		
+		<setting id="nba_upcominggame" type="bool" label="Upcoming Game" default="false"/>
+		<setting id="nba_startofgame" type="bool" label="Game Started" default="false"/>
+		<setting id="nba_leadchange" type="bool" label="Lead Change" default="false"/>
+		<setting id="nba_periodchange" type="bool" label="Period Change" default="false"/>
+		<setting id="nba_endofgame" type="bool" label="Game Ended" default="false"/>
+	</category>
+	
+	<category label="NHL">
+		<setting id="nhl_enable" type="bool" label="Show Notifications" default="false"/>
+		<setting id="nhl_manageteams" type="action" label="Manage Teams" enable="eq(-1,true)" 
+				 action="RunPlugin(plugin://plugin.video.sports/?sport=nhl&action=settings)"/>
+				 
+		<setting type="lsep" label="Notification Types"/>
+		
+		<setting id="nhl_upcominggame" type="bool" label="Upcoming Game" default="false"/>
+		<setting id="nhl_startofgame" type="bool" label="Game Started" default="false"/>
+		<setting id="nhl_scorechange" type="bool" label="Score Change" default="false"/>
+		<setting id="nhl_periodchange" type="bool" label="Period Change" default="false"/>
+		<setting id="nhl_endofgame" type="bool" label="Game Ended" default="false"/>
+	</category>
+	
+	<category label="MLB">
+		<setting id="mlb_enable" type="bool" label="Show Notifications" default="false"/>
+		<setting id="mlb_manageteams" type="action" label="Manage Teams" enable="eq(-1,true)" 
+				 action="RunPlugin(plugin://plugin.video.sports/?sport=mlb&action=settings)"/>
+				 
+		<setting type="lsep" label="Notification Types"/>
+		
+		<setting id="mlb_upcominggame" type="bool" label="Upcoming Game" default="false"/>
+		<setting id="mlb_startofgame" type="bool" label="Game Started" default="false"/>
+		<setting id="mlb_scorechange" type="bool" label="Score Change" default="false"/>
+		<setting id="mlb_inningchange" type="bool" label="Inning Change" default="false"/>
+		<setting id="mlb_endofgame" type="bool" label="Game Ended" default="false"/>
+	</category>
+	
+	<category label="Soccer">
+		<setting id="soccer_enable" type="bool" label="Show Notifications" default="false"/>
+		
+		<setting type="lsep" label="Leagues"/>
+		
+		<setting id="eng.1" type="bool" label="English Premier League" default="false"/>
+			<setting type="action" label="Manage Teams" visible="eq(-1,true)" subsetting="true"
+			action="RunPlugin(plugin://plugin.video.sports/?sport=soccer&league=eng.1&action=settings)"/>
+		<setting id="eng.2" type="bool" label="English League Championship" default="false"/>
+			<setting type="action" label="Manage Teams" visible="eq(-1,true)" subsetting="true"
+			action="RunPlugin(plugin://plugin.video.sports/?sport=soccer&league=eng.2&action=settings)"/>
+		<setting id="eng.3" type="bool" label="English League One" default="false"/>
+			<setting type="action" label="Manage Teams" visible="eq(-1,true)" subsetting="true"
+			action="RunPlugin(plugin://plugin.video.sports/?sport=soccer&league=eng.3&action=settings)"/>
+		<setting id="eng.4" type="bool" label="English League Two" default="false"/>
+			<setting type="action" label="Manage Teams" visible="eq(-1,true)" subsetting="true"
+			action="RunPlugin(plugin://plugin.video.sports/?sport=soccer&league=eng.4&action=settings)"/>
+		<setting id="uefa.europa" type="bool" label="UEFA Europa League" default="false"/>
+			<setting type="action" label="Manage Teams" visible="eq(-1,true)" subsetting="true"
+			action="RunPlugin(plugin://plugin.video.sports/?sport=soccer&league=uefa.europa&action=settings)"/>
+		<setting id="uefa.champions" type="bool" label="UEFA Champions League" default="false"/>
+			<setting type="action" label="Manage Teams" visible="eq(-1,true)" subsetting="true"
+			action="RunPlugin(plugin://plugin.video.sports/?sport=soccer&league=uefa.champions&action=settings)"/>
+		<setting id="usa.1" type="bool" label="Major League Soccer" default="false"/>
+			<setting type="action" label="Manage Teams" visible="eq(-1,true)" subsetting="true"
+			action="RunPlugin(plugin://plugin.video.sports/?sport=soccer&league=usa.1&action=settings)"/>
+		<setting id="ita.1" type="bool" label="Italian Serie A" default="false"/>
+			<setting type="action" label="Manage Teams" visible="eq(-1,true)" subsetting="true"
+			action="RunPlugin(plugin://plugin.video.sports/?sport=soccer&league=ita.1&action=settings)"/>
+		<setting id="esp.1" type="bool" label="Spain La Liga" default="false"/>
+			<setting type="action" label="Manage Teams" visible="eq(-1,true)" subsetting="true"
+			action="RunPlugin(plugin://plugin.video.sports/?sport=soccer&league=esp.1&action=settings)"/>
+		<setting id="sco.1" type="bool" label="Scottish Premier League" default="false"/>
+			<setting type="action" label="Manage Teams" visible="eq(-1,true)" subsetting="true"
+			action="RunPlugin(plugin://plugin.video.sports/?sport=soccer&league=sco.1&action=settings)"/>
+		<setting id="fra.1" type="bool" label="French Ligue 1" default="false"/>
+			<setting type="action" label="Manage Teams" visible="eq(-1,true)" subsetting="true"
+			action="RunPlugin(plugin://plugin.video.sports/?sport=soccer&league=fra.1&action=settings)"/>
+		<setting id="ger.1" type="bool" label="German Bundesliga" default="false"/>
+			<setting type="action" label="Manage Teams" visible="eq(-1,true)" subsetting="true"
+			action="RunPlugin(plugin://plugin.video.sports/?sport=soccer&league=ger.1&action=settings)"/>
+		<setting id="fifa.friendly" type="bool" label="International Friendlies" default="false"/>
+			<setting type="action" label="Manage Teams" visible="eq(-1,true)" subsetting="true"
+			action="RunPlugin(plugin://plugin.video.sports/?sport=soccer&league=fifa.friendly&action=settings)"/>
+		<setting id="fifa.world" type="bool" label="World Cup" default="false"/>
+			<setting type="action" label="Manage Teams" visible="eq(-1,true)" subsetting="true"
+			action="RunPlugin(plugin://plugin.video.sports/?sport=soccer&league=fifa.world&action=settings)"/>
+		
+		<setting type="lsep" label="Notification Types"/>
+		
+		<setting id="soccer_upcominggame" type="bool" label="Upcoming Game" default="false"/>
+		<setting id="soccer_startofgame" type="bool" label="Game Started" default="false"/>
+		<setting id="soccer_scorechange" type="bool" label="Goal" default="false"/>
+		<setting id="soccer_halftime" type="bool" label="Halftime" default="false"/>
+		<setting id="soccer_endofgame" type="bool" label="Game Ended" default="false"/>
+	</category>
+	
+	
+	
+	
+</settings>

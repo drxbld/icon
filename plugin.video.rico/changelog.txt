@@ -1,0 +1,15 @@
+===VERSION 1.0.1.5===
+TOOK OVER ADDON FROM MAYHEM THX BRO! UPDATED ALL COLOURS IN SECTIONS & ADDON ITSELF, ADDED FANART ICONS TO ALL SECTIONS.
+ADDED HEADERS TO XMLS, NEW MAIN ICON/FANART, CLEANED UP SOME CODE, ADDED URLRESOLVER AND VERSION#, LEFT RESOLVERURL
+======================================================================================================================
+===VERSION 1.0.1.6===
+UPDATED MAIN XML, CHANGED BACK TO RESOLVER URL, ADDED SPORTS DEVIL AND YOU TUBE, TURNED OFF META DATA,
+ENABLED REDRID
+======================================================================================================
+=====(J v1.9)=====
+===VERSION 1.0.1.7===
+ADDED NEW CODE
+=====================
+=====(J v1.9.1)
+=====VERSION 1.0.1.8===
+UPDATED TO J 1.9.1

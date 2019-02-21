@@ -1,0 +1,9 @@
+v1.0.4 - Updated Dependencies
+
+v1.0.3 Add-on Rewrite(Rock)
+
+v1.0.2 Fixed Image Files(Rock)
+
+v1.0.1 Added more channels. (Rock)
+
+v1.0.0 Initial release (Rock)

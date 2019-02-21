@@ -1,0 +1,24 @@
+<dir>
+	<title>[COLOR=white]Season 1[/COLOR]</title>
+	<meta>
+	<imdb>tt1409008</imdb>
+	<content>season</content>
+	<season>1</season>
+	<year>2010</year>
+	</meta>
+	<link>file://TV/TVCrime/Memphis Beat_Season 1.xml</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280None</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/nkS7erFwjUgflxQ3mEevSeChGLF.jpg</fanart>
+</dir>
+<dir>
+	<title>[COLOR=white]Season 2[/COLOR]</title>
+	<meta>
+	<imdb>tt1409008</imdb>
+	<content>season</content>
+	<season>2</season>
+	<year>2011</year>
+	</meta>
+	<link>file://TV/TVCrime/Memphis Beat_Season 2.xml</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280None</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/nkS7erFwjUgflxQ3mEevSeChGLF.jpg</fanart>
+</dir>

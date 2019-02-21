@@ -1,0 +1,12 @@
+[B][COLOR darkorange]v2.2[/COLOR][/B]
+
+- Fixed a few bugs
+
+- Turned metadata off to speed up loading times - added sportsdevil and youtube code to auto install when scythe is installed - switched back to resolveurl - removed live tv section do to being down atm - added music box section
+
+- Changed all the artwork - added a 24/7 section - added a documentary secion and added a live sports section!
+
+[B][COLOR darkorange]v2.3[/COLOR[/B]
+==========(J v1.9)==========
+
+- ADDED NEW CODE

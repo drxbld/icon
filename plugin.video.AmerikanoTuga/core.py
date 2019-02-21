@@ -1,0 +1,1 @@
+[{"url": "https://goo.gl/iR7UEv", "fanart": ".\\fanart.jpg", "title": "AmerikanoTuga"}] 

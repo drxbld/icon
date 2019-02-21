@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="script.kongtv.metadata" version="1.0" name="[COLOR red]Kong Tv Metadata[/COLOR]" provider-name="StarTec">
+	<requires>
+		<import addon="xbmc.python" version="2.19.0"/>
+	</requires>
+	<extension point="xbmc.python.module" library="lib" />
+	<extension point="xbmc.addon.metadata">
+		<summary>Kong Tv Metadata</summary>
+		<description>Kong Tv Metadata</description>
+		<platform>all</platform>
+		<assets>
+			<icon>icon.jpg</icon>
+		</assets>
+	</extension>
+</addon>

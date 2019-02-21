@@ -1,0 +1,70 @@
+    <dir>
+      <title>TMDB Popular</title>
+      <tmdb>movies/popular</tmdb>
+    </dir>
+	
+    <dir>
+      <title>TMDB Upcoming</title>
+      <tmdb>movie/upcoming</tmdb>
+      <summary>Shows Trailers For Upcoming Movies</summary>
+    </dir>
+	
+    <dir>
+      <title>TMDB Now Playing</title>
+      <tmdb>movies/now_playing</tmdb>
+    </dir>
+	
+    <dir>
+      <title>TMDB Top Rated</title>
+      <tmdb>movies/top_rated</tmdb>
+    </dir>
+	
+    <dir>
+      <title>Movies Released In 2018</title>
+      <tmdb>year/movies/2018</tmdb>
+    </dir>
+	
+    <dir>
+        <title>Pixar Animation</title>
+        <tmdb>company/movies/3</tmdb>
+    </dir>
+	
+    <dir>
+      <title>TMDB Star Wars Collection</title>
+      <tmdb>collection/10</tmdb>
+    </dir>
+
+    <dir>
+      <title>TMDB Popular</title>
+      <tmdb>tv/popular</tmdb>
+    </dir>
+
+    <dir>
+      <title>TMDB Top Rated</title>
+      <tmdb>tv/top_rated</tmdb>
+    </dir>
+
+    <dir>
+      <title>TMDB Airing Today</title>
+      <tmdb>tv/today</tmdb>
+    </dir>
+
+    <dir>
+      <title>TMDB On The Air</title>
+      <tmdb>tv/on_the_air</tmdb>
+    </dir>
+
+    <dir>
+      <title>TMDB Animation Shows</title>
+      <tmdb>genre/shows/16</tmdb>
+    </dir>
+	
+    <dir>
+      <title>Popular People</title>
+      <tmdb>people/popular</tmdb>
+    </dir>
+
+    <dir>
+      <title>Search TMDB</title>
+      <tmdb>search</tmdb>
+    </dir>

@@ -1,0 +1,35 @@
+<item>
+    <title>Coachella channel 1 </title>
+    <link>https://youtu.be/9TUBf6l7FBg</link>
+    <thumbnail></thumbnail>
+    <fanart></fanart>
+</item>
+   
+   <item>
+    <title>Coachella channel 2 </title>
+    <link>https://youtu.be/dspNRzzOiVE</link>
+    <thumbnail></thumbnail>
+    <fanart></fanart>
+</item>
+
+<item>
+    <title>Coachella channel 3 </title>
+    <link>https://youtu.be/qyh9blvR54Q</link>
+    <thumbnail></thumbnail>
+    <fanart></fanart>
+</item>
+
+<item>
+    <title>Eric Church @ American Airlines Dallas - Feb 2017</title>
+    <link>https://youtu.be/PPx_s-uWGfo</link>
+    <thumbnail></thumbnail>
+    <fanart></fanart>
+</item>
+
+
+<plugin>
+<title>Eric Church - Live at Red Rock playlist</title>
+<link>plugin://plugin.video.youtube/playlist/PLh12DgA4wOzJwudbvVNu-lKb3Dk4f0EFq/</link>
+<thumbnail></thumbnail>
+</plugin>
+

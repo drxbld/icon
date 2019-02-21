@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <addon id="repository.PansBox" name="PansBox Repo" version="0.1.0" provider-name="PansBox">
+        <requires>
+            <import addon="xbmc.addon" version="12.0.0"/>
+        </requires>
+        <extension point="xbmc.addon.repository" name="PansBox Repo">
+            <info compressed="false">http://euve251346.serverprofi24.net/pans/_Repo/addons.xml</info>
+            <checksum>http://euve251346.serverprofi24.net/pans/_Repo/addons.xml.md5</checksum>
+            <datadir zip="true">http://euve251346.serverprofi24.net/pans/_Repo/</datadir>
+            <hashes>false</hashes>
+        </extension>
+        <extension point="xbmc.addon.metadata">
+            <summary>Content From Pandoras Box, thanks to Origin for all the support.</summary>
+            <description>AN Add-On for all</description>
+            <platform>all</platform>
+    </extension>
+</addon>

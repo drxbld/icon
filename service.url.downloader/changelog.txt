@@ -1,0 +1,20 @@
+** 0.1.0 **
+
+Version bump
+
+** 0.0.6 **
+
+Release
+
+** 0.0.3 **
+
+Show freespace on dialog
+Fix size floats to 1 digit on dialog for less shifting
+
+** 0.0.2 **
+
+Updgrade test
+
+** 0.0.1 **
+
+Initial creation

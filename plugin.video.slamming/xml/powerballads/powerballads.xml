@@ -1,0 +1,35 @@
+Single Link
+
+<item>
+<title></title>
+<link>**youtube link**</link>
+<thumbnail>special://home/addons/plugin.vide.slamming/resoucres/media/icon.png</thumbnail>
+</item>
+
+Playlist
+
+<plugin>
+<title>NOW That's What I Call Power Ballads - Official </title>
+<link>plugin://plugin.video.youtube/playlist/PL_34_m4eTlaP5cyIG-2hUcqF2bZxHgZlZ/</link>
+<thumbnail>special://home/addons/plugin.vide.slamming/resoucres/media/icon.png</thumbnail>
+</plugin>
+
+<plugin>
+<title>Power Ballads Playlist </title>
+<link>plugin://plugin.video.youtube/playlist/PLm082UCiYUQrubKdDK8OohygeQgZHdS8S/</link>
+<thumbnail>special://home/addons/plugin.vide.slamming/resoucres/media/icon.png</thumbnail>
+</plugin>
+
+<plugin>
+<title>80's & 90's Power Ballads that Rock </title>
+<link>plugin://plugin.video.youtube/playlist/PL95kIlq-egZYBnU6W9MhZ5wSZujm51Cf5/</link>
+<thumbnail>special://home/addons/plugin.vide.slamming/resoucres/media/icon.png</thumbnail>
+</plugin>
+
+Channel
+
+<plugin>
+<title></title>
+<link>plugin://plugin.video.youtube/channel/**CHANNEL NUMBER**/playlists/</link>
+<thumbnail>special://home/addons/plugin.vide.slamming/resoucres/media/icon.png</thumbnail>
+</plugin>

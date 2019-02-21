@@ -1,0 +1,6 @@
+-1.0.3
+  - Added Art for SoullessBuilds Box Sets
+-1.0.1
+  - Added Selfless Skin
+-1.0.0
+  - Initial version

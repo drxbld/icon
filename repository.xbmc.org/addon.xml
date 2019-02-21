@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.xbmc.org" name="XBMC.org Add-ons For Frodo" version="2.1.100" provider-name="Team XBMC">
+	<extension point="xbmc.addon.repository" name="xunity.tv">
+		<dir minversion="12.9.0">
+			<info compressed="true">http://mirrors.xbmc.org/addons/gotham/addons.xml</info>
+			<checksum>http://mirrors.xbmc.org/addons/gotham/addons.xml.md5</checksum>
+			<datadir zip="true">http://mirrors.xbmc.org/addons/gotham</datadir>
+			<hashes>true</hashes>
+		</dir>
+		<info compressed="false">http://www.mirrorservice.org/sites/mirrors.xbmc.org/addons/frodo/addons.xml</info>
+		<checksum>http://mirrors.xbmc.org/addons/frodo/addons.xml.md5</checksum>
+		<datadir zip="true">http://www.mirrorservice.org/sites/mirrors.xbmc.org/addons/frodo</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Xunity TV - iSTREAM Extensions</summary>
+		<description>Xunity TV - iSTREAM Extensions</description>
+		<platform>all</platform>
+	</extension>
+</addon>

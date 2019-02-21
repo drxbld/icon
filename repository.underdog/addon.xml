@@ -1,0 +1,31 @@
+<addon id="repository.underdog" name="[B]Underdog Temp Repo[/B]" version="1.6" provider-name="Illuminati Temple">
+<requires>
+<import addon="xbmc.addon" version="12.0.0"/>
+</requires>
+<extension point="xbmc.addon.repository" name="Underdog Temp Repo">
+
+<dir>
+<info compressed="false">http://www.mookdog.appboxes.co/underdog/zips/addons.xml</info>
+<checksum>http://www.mookdog.appboxes.co/underdog/zips/addons.xml.md5</checksum>
+<datadir zip="true">http://www.mookdog.appboxes.co/underdog/zips/</datadir>
+</dir>
+     
+<dir>
+<info compressed="false">https://raw.githubusercontent.com/totalrevolution/python-koding/master/zips/addons.xml</info>
+<checksum>https://raw.githubusercontent.com/totalrevolution/python-koding/master/zips/addons.xml.md5</checksum>
+<datadir zip="true">https://raw.githubusercontent.com/totalrevolution/python-koding/master/zips/</datadir>
+</dir>
+
+<dir>
+<info compressed="false">https://raw.githubusercontent.com/jsergio123/zips/master/addons.xml</info>
+<checksum>https://raw.githubusercontent.com/jsergio123/zips/master/addons.xml.md5</checksum>
+<datadir zip="true">https://raw.githubusercontent.com/jsergio123/zips/master/</datadir>
+</dir>
+
+</extension>
+<extension point="xbmc.addon.metadata">
+<summary lang="en">Home of 3rd party addons</summary>
+<description lang="en">The developers do not own any content found within these addons. They are in no way affiliated with Kodi or XBMC.</description>
+<platform>all</platform>
+</extension>
+</addon>

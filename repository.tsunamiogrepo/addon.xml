@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <addon id="repository.tsunamiogrepo" name="[COLORskyblue]TSUNAMI [B]OG[/B][/COLOR]  Repo" version="0.3.2" provider-name="ChipmanTech">
+        <requires>
+            <import addon="xbmc.addon" version="12.0.0"/>
+        </requires>
+        <extension point="xbmc.addon.repository" name="[COLORskyblue]TSUNAMI [B]OG[/B][/COLOR]  Repo">
+            <info compressed="false">http://addons4me.tk/_tsunamiogrepo/addons.xml</info>
+            <checksum>http://addons4me.tk/_tsunamiogrepo/addons.xml.md5</checksum>
+            <datadir zip="true">http://addons4me.tk/_tsunamiogrepo/</datadir>
+            <hashes>false</hashes>
+        </extension>
+        <extension point="xbmc.addon.metadata">
+            <summary>A repository for TSUNAMI OG addon and AVP Wizard</summary>
+            <description>An ALLnONE Addon and Multi-Purpose Wizard</description>
+            <platform>all</platform>
+    </extension>
+</addon>

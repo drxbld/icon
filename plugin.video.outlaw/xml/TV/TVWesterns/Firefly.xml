@@ -1,0 +1,24 @@
+<dir>
+	<title>[COLOR=white]Specials[/COLOR]</title>
+	<meta>
+	<imdb>tt0303461</imdb>
+	<content>season</content>
+	<season></season>
+	<year>2005</year>
+	</meta>
+	<link>file://TV/TVWesterns/Firefly_Season 1.xml</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/oMy3GEeWT14LRjTTFWwlc4uQld1.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/tGgZdD29MeMLvoQHMxyD1PN1k5k.jpg</fanart>
+</dir>
+<dir>
+	<title>[COLOR=white]Season 1[/COLOR]</title>
+	<meta>
+	<imdb>tt0303461</imdb>
+	<content>season</content>
+	<season>1</season>
+	<year>2002</year>
+	</meta>
+	<link>file://TV/TVWesterns/Firefly_Season 1.xml</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/qpjgUjjj3gQTzkQgcHXVBaP51Qf.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/tGgZdD29MeMLvoQHMxyD1PN1k5k.jpg</fanart>
+</dir>

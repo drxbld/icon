@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.suicidetv" name="Suicide TV" version="2.1.4" provider-name="STV Team">
+	<extension point="xbmc.addon.repository" name="Suicide TV">
+		<info compressed="false">http://stvpro.com/repo/Plugins/addons.xml</info>
+		<checksum>http://stvpro.com/repo/Plugins/addons.xml.md5</checksum>
+		<datadir zip="true">http://stvpro.com/repo/Plugins</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Suicide TV the number 1 source for IPTV</summary>
+		<description>Suicide TV is not affiliated with xbmc/kodi</description>
+		<platform>all</platform>
+	</extension>
+</addon>
+

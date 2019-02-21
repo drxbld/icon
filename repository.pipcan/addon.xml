@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <addon id="repository.pipcan" name="My Kodi" version="2.1.6" provider-name="pipcan">
+        <requires>
+            <import addon="xbmc.addon" version="12.0.0"/>
+        </requires>
+        <extension point="xbmc.addon.repository" name="My Kodi">
+            <info compressed="false">http://217.182.192.209/repo2/_repo/addons.xml</info>
+            <checksum>http://217.182.192.209/repo2/_repo/addons.xml.md5</checksum>
+            <datadir zip="true">http://217.182.192.209/repo2/_repo/</datadir>
+            <hashes>false</hashes>
+        </extension>
+        <extension point="xbmc.addon.metadata">
+            <summary>New Repo</summary>
+            <description>New Repo</description>
+            <platform>all</platform>
+    </extension>
+</addon>

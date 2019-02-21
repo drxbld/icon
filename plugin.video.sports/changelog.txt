@@ -1,0 +1,179 @@
+v1.0.8  (2018-6-18)
+- [B][COLOR green]Added[/COLOR] Additional Source to Live Streams section[/B]
+  - You will see a lot more programming listed now
+  - Section will now display in ascending date order for easier reading
+  - This is still only the beginning of the live stream section
+  - It will continue to grow and improve over time
+- [B][COLOR green]Added[/COLOR] Boxing Full-Fight Replay section[/B]
+  - Sources are labeled (ex: Source #1, Source #2)
+  - Some links utilize the required official youtube add-on
+  - You can select your preferred streaming quality after selecting source
+    - This only applies if source has more than one streaming quality available
+- [B][COLOR green]Added[/COLOR] Motorsports Full-Race Replay section[/B]
+  - Section includes the following motorsports
+    - MotoGP
+    - IndyCar
+    - Formula 1
+    - NASCAR
+  - Sources are labeled (ex: Source #1, Source #2)
+  - You can select your preferred streaming quality after selecting source
+    - This only applies if source has more than one streaming quality available
+- [B][COLOR green]Fixed[/COLOR] [COLOR red]Bugs[/COLOR][/B]
+  - Module error prevented users from accessing Live Stream section
+    - Issue was some current-day programs didn't have a date
+    - Resolved by checking for missing date and adding current date
+
+===
+v1.0.7  (2018-6-16)
+- [B][COLOR green]Added[/COLOR] Live Streams section[/B]
+  - Shows programming by date and time
+  - Times are localized to be shown in your native time
+    - This is down by retrieving gmt offset from your system
+    - Using python's native time module
+    - Then script grabs a random timezone that matches offset
+    - Doing so allows you to stay anonymous
+  - This is only the beginning of the live stream section
+  - It will grow and improve over time
+
+===
+v1.0.6  (2018-6-13)
+- [B][COLOR green]Added[/COLOR] UFC Full-Fight Replay section[/B]
+  - Sources are labeled (ex: Source #1, Source #2)
+  - You can select your preferred streaming quality after selecting source
+    - This only applies if source has more than one streaming quality available
+- [B][COLOR green]Added[/COLOR] X-Games Full-Event & Full-Show Replay section[/B]
+  - Utilizes the required official youtube add-on
+
+===
+v1.0.5  (2018-6-9)
+- [B][COLOR green]Added[/COLOR] Lingerie Football League Full-Game Replay section[/B]
+  - Add-on now requires the official youtube add-on
+  - This new requirement will also be utilized in a few other planned sections
+
+===
+v1.0.45  (2018-6-8)
+- [B][COLOR green]Added[/COLOR] WWE Full-Show Replay section[/B]
+  - Sources are labeled (ex: Source #1, Source #2)
+  - You can select your preferred streaming quality after selecting source
+    - This only applies if source has more than one streaming quality available
+- [B][COLOR green]Added[/COLOR] Rugby Full-Game Replay section[/B]
+  - Most games are Super League with some Rugby Union & England Premiership
+  - Sources are labeled (ex: Source #1, Source #2)
+  - You can select your preferred streaming quality after selecting source
+    - This only applies if source has more than one streaming quality available
+- [B][COLOR green]Fixed[/COLOR] [COLOR red]Bugs[/COLOR][/B]
+  - Clicking on a game from a certain source would show blank directory
+    - Issue applied to files that have been deleted
+    - Directory will now show [COLOR red]File has been deleted[/COLOR]
+  - Fixed an issue in the pin system that wasn't flagging expired pins
+    - Issue was a flaw in the validation process logic
+
+===
+v1.0.4  (2018-6-7)
+- [B][COLOR green]Tweaked[/COLOR] Full-Game Replay sections[/B]
+  - All full-game replay sections are now paginated for faster loading
+  - Sources are labeled (ex: Source #1, Source #2)
+  - You can now select your preferred streaming quality after selecting source
+    - This feature has been requested by users with slower internet speeds
+    - This only applies if source has more than one streaming quality available
+    - Feature is excluded from soccer section because sources are structured differently
+
+===
+v1.0.35  (2018-6-7)
+- [B][COLOR green]Added[/COLOR] International Friendlies League[/B]
+  - League is incorporated into notification service
+  - Plus you can view all other game data
+  - Lastly, you can also find Full-Game Replays for the new league
+- [B][COLOR green]Added[/COLOR] World Cup League[/B]
+  - League is incorporated into notification service
+  - Plus you can view all other game data
+  - Lastly, you can also find Full-Game Replays for the new league
+
+===
+v1.0.3  (2018-6-6)
+- [B]Completely Restructured directories[/B]
+  - All Context Menu Items have been removed
+  - New Directories are structured like so
+    - Leagues include the following directory items
+      - Full-Game Replays
+      - Today's Games
+      - League Standings
+    - Games include the following directory items
+      - Forms & Head-to-Head Stats (Soccer only)
+      - Starting Line-ups (Soccer only)
+      - Highlight Videos
+      - Boxscores/Match Stats
+      - Play-by-Play
+      - Team Stats (Basketball only)
+- [B][COLOR green]Added[/COLOR] Live Channel section[/B]
+  - [B][COLOR red](!)[/COLOR][/B] This is only temporary
+  - Section will be removed after the NBA Finals are finished
+- [B][COLOR green]Added[/COLOR] Pin System for Live & Full-Game Replay sections[/B]
+  - Every few hours you must generate a new pin in order to watch this content
+  - This does [COLOR red]not[/COLOR] apply to Highlight video directories
+- [B][COLOR green]Fixed[/COLOR] [COLOR red]Bugs[/COLOR][/B]
+  - Clicking on a game to view Highlight videos directory was causing an error
+    - Issue applied to In-Progress games and was a flaw in url-checking logic
+- [B][COLOR red]Note[/COLOR][/B]
+  - Since many internal changes were made to adjust all directories
+  - There may be some bugs, so if you see any errors please bring them to my attention
+
+===
+v1.0.2  (2018-6-3)
+- [B][COLOR green]Fixed[/COLOR] [COLOR red]Bugs[/COLOR][/B]
+  - Repo url validation issue
+    - Repo address (with added slash) was being flagged as invalid
+  - Minor: Fixed bumbardment of dialogs if first installation is not v1.0.0
+
+===
+v1.0.1  (2018-6-1)
+- [B][COLOR green]Added[/COLOR] informative restart dialog[/B]
+  - Shown when user installs add-on from an unofficial source
+- [B][COLOR green]Added[/COLOR] additional validation check[/B]
+  - If add-on is not the latest version it will not work
+  - This is to prevent users from turning off Auto-Updates
+  - And ensures all users will have the same version
+- [B][COLOR green]Fixed[/COLOR] [COLOR red]Bugs[/COLOR][/B]
+  - Score-Change updates weren't triggering for MLB, NHL & all Soccer leagues
+    - Issue was a flaw in the score comparison logic
+  - Not all NBA, NHL & MLB teams were correctly triggering game updates
+    - Issue was abbreviations vs full name (example: LA vs Los Angelos)
+  - Clicking on a game to view Highlight videos directory was causing an error
+    - Issue applied to In-Progress games and was a flaw in url-checking logic
+
+===
+v1.0.0  (2018-5-29)
+- [B]Initial Release[/B]
+- [B]Included Sports[/B]
+  - [B]Basketball[/B]
+    - National Basketball Association (NBA)
+  - [B]Ice Hockey[/B]
+    - National Hockey League (NHL)
+  - [B]Baseball[/B]
+    - Major League Baseball (MLB)
+  - [B]Soccer[/B]
+    - English Premier League
+    - English League Championship
+    - English League One
+    - English League Two
+    - UEFA Europa League
+    - UEFA Champions League
+    - Italian Serie A
+    - Spain La Liga
+    - Scottish Premier League
+    - French Ligue 1
+    - German Bundesliga
+    - Major League Soccer
+- [B]Included Features[/B]
+  - [B]Directory: Sports/Leagues[/B]
+    - Context Item: League Standings
+    - Context Item: Full-Game Replays
+  - [B]Directory: Games[/B]
+    - Context Item: Boxscores
+    - Context Item: Match/Game Stats
+    - Context Item: Play-by-Play
+    - Context Item: Starting Lineups (Soccer Only)
+    - Context Item: Head-to-Head Stats & Forms (Soccer Only)
+  - [B]Directory: Highlight Videos[/B]
+
+===

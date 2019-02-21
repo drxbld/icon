@@ -1,0 +1,26 @@
+<dir>
+<title>Horse racing Movies</title>
+<tmdb>list/51569</tmdb>
+</dir>
+
+<title>Horse Racing Documentaries</title>
+<imdburl>user/ur86732336/lists</imdburl>
+</dir>
+
+<plugin>
+<title>At The Races YouTube Channel</title>
+<link>plugin://plugin.video.youtube/user/AtTheRacesUK/</link>
+<thumbnail></thumbnail>
+</plugin>
+
+<plugin>
+<title>Racing UK YouTube Channel</title>
+<link>plugin://plugin.video.youtube/user/RUKTV1/</link>
+<thumbnail></thumbnail>
+</plugin>
+
+<plugin>
+<title>Racing Post YouTube Channel</title>
+<link>plugin://plugin.video.youtube/user/racingpostdotcom/</link>
+<thumbnail></thumbnail>
+</plugin>

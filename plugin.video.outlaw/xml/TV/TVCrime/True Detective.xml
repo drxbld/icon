@@ -1,0 +1,36 @@
+<dir>
+	<title>[COLOR=white]Season 1[/COLOR]</title>
+	<meta>
+	<imdb>tt2356777</imdb>
+	<content>season</content>
+	<season>1</season>
+	<year>2014</year>
+	</meta>
+	<link>file://TV/TVCrime/True Detective_Season 1.xml</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/4axYYJK9QSwFLnTFK9j5Ybbfsnn.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/qDEIZWnyRxWTB9zCjyyj4mbURVp.jpg</fanart>
+</dir>
+<dir>
+	<title>[COLOR=white]Season 2[/COLOR]</title>
+	<meta>
+	<imdb>tt2356777</imdb>
+	<content>season</content>
+	<season>2</season>
+	<year>2015</year>
+	</meta>
+	<link>file://TV/TVCrime/True Detective_Season 2.xml</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/owTL3WTY4Yax2qClnwbaDsOO72r.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/qDEIZWnyRxWTB9zCjyyj4mbURVp.jpg</fanart>
+</dir>
+<dir>
+	<title>[COLOR=white]Season 3[/COLOR]</title>
+	<meta>
+	<imdb>tt2356777</imdb>
+	<content>season</content>
+	<season>3</season>
+	<year></year>
+	</meta>
+	<link>file://TV/TVCrime/True Detective_Season 3.xml</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280None</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/qDEIZWnyRxWTB9zCjyyj4mbURVp.jpg</fanart>
+</dir>

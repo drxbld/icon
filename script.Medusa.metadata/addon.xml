@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="script.Medusa.metadata" version="2.0.1" name="Medusa Metadata" provider-name="ABA">
+	<requires>
+		<import addon="xbmc.python" version="2.19.0"/>
+	</requires>
+	<extension point="xbmc.python.module" library="lib" />
+	<extension point="xbmc.addon.metadata">
+		<summary>Metadata for the Medusa Addon</summary>
+		<description>Metadata for Medusa are maintained externally for ease and a faster expierience.</description>
+		<platform>all</platform>
+	</extension>
+</addon>

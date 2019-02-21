@@ -1,0 +1,30 @@
+Single Link
+
+
+Playlist
+
+<plugin>
+<title>Top Trap Latino 2018 | Latin Trap iPauta</title>
+<link>plugin://plugin.video.youtube/playlist/PLUYSqCHHfyUAofgPTvfa3X9oKnOFIap6b/</link>
+<thumbnail></thumbnail>
+</plugin>
+
+<plugin>
+<title>Latin Music 2018 - Pop & Reggaeton Latino </title>
+<link>plugin://plugin.video.youtube/playlist/PLw-VjHDlEOguFTtIGaVGb3q7WarCyqcru/</link>
+<thumbnail></thumbnail>
+</plugin>
+
+<plugin>
+<title>Best Bachata Playlist - Timeless Dance & New </title>
+<link>plugin://plugin.video.youtube/playlist/PLcUqPeI0P9OzpYK1UBbeAApBHkEXONi5K/</link>
+<thumbnail></thumbnail>
+</plugin>
+
+Channel
+
+<plugin>
+<title></title>
+<link>plugin://plugin.video.youtube/channel/**CHANNEL NUMBER**/playlists/</link>
+<thumbnail></thumbnail>
+</plugin>

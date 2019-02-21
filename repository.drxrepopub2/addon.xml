@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.drxrepopub2" name="[COLOR gold]Durex Build Repo 2[/COLOR]" version="2.0" provider-name="Durex">
+	<extension point="xbmc.addon.repository" name="Durex Build Repo">
+		<info compressed="false">https://raw.githubusercontent.com/drxbld2/repo/master/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/drxbld2/repo/master/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/drxbld2/repo/master/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Durex Add-on Repository</summary>
+		<description>Kodi Repository Backup for Durex Build</description>
+		<platform>all</platform>
+	</extension>
+</addon>
+

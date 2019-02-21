@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="script.kongtv.artwork" version="1.0" name="[COLOR red]Kong Tv Artwork[/COLOR]" provider-name="StarTec">
+    <requires>
+        <import addon="xbmc.python" version="2.19.0"/>
+    </requires>
+    <extension point="xbmc.python.module" library="lib" />
+    <extension point="xbmc.addon.metadata">
+        <summary>Kong Tv Artwork</summary>
+        <description>Kong Tv Artwork</description>
+        <platform>all</platform>
+        <assets>
+            <icon>icon.jpg</icon>
+        </assets>
+        <news>Added Purple Colour</news>
+    </extension>
+</addon>

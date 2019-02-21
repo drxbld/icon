@@ -1,0 +1,34 @@
+[B][COLOR red]v1.0.8[/COLOR][/B]
+- Fixed Trakt Intergration
+
+[B][COLOR red]v1.0.7[/COLOR][/B]
+- Added Support for Scraping Torrent Sites
+- Added Real-Debrid Mod addon as a Dependency
+- Please Renable your Real Debrid via New Real-Debrid Mod
+- Also reauthorize your Real Debrid via Resolve url 
+
+[B][COLOR red]v1.0.4[/COLOR][/B]
+- No New Providers
+- Added IPTV Plugin. (Some options use plugin.video.SportsDevil)
+- Added MusicChoice Plugin.
+- Added a hidden Adult Plugin. (nav.xxx)
+
+[B][COLOR red]v1.0.3[/COLOR][/B]
+Added cooltv scraper
+code clean up
+
+[B][COLOR red]v1.0.2[/COLOR][/B]
+Removed Broken scrapers
+added iwantmyshow,gogoanime and flixanity scrapers
+fixed few plugin what where broken
+
+[B][COLOR red]v1.0 [/COLOR][/B]
+- Initial Version.
+- Forked from a fork and modified to my liking and learning.
+(Thanks to any devs that helped design any part of this well appreciated.)
+
+= = Help Tips = = 
+
+1 - I do not host any of the content found in this addon 
+2 - If download from this addon you are doing so at your own risk
+3 - Advised to enable subtitles for movies to help with some movies

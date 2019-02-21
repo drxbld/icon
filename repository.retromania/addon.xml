@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.retromania" name="RetroMania Repo" version="1.0" provider-name="s2law">
+	<extension point="xbmc.addon.repository" name="RetroMania UK Repo">
+		<info compressed="false">http://rmoa.hol.es/Plugins/addons.xml</info>
+		<checksum>http://rmoa.hol.es/Plugins/addons.xml.md5</checksum>
+		<datadir zip="true">http://rmoa.hol.es/Plugins</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Install Addons From RetroMania</summary>
+		<description>Download and install addons from RetroMania!</description>
+		<platform>all</platform>
+	</extension>
+</addon>
+

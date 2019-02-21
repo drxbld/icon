@@ -1,0 +1,9 @@
+Rugby Super League
+Current day
+
+http://sportscenter.api.espn.com/apis/espnapp/v1/rugby/8326/calendar
+
+
+Next active day
+
+http://sportscenter.api.espn.com/apis/v1/events?advance=true&sport=rugby&league=242041

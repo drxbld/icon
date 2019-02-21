@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.GearsTV" name="[COLOR red]GEARS[COLOR white] TV Repository[/COLOR]" version="1.1" provider-name="[COLOR red]GEARS[COLOR white] TV[/COLOR]">
+    <extension point="xbmc.addon.repository" name="GEARS TV Repository">
+        <info compressed="false">http://targetcreates.com/git/addons.xml</info>
+        <checksum>http://targetcreates.com/git/addons.xml.md5</checksum>
+        <datadir zip="true">http://targetcreates.com/git/zips/</datadir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>GEARS TV Repository</summary>
+        <description>The GEARS TV repository.</description>
+        <platform>all</platform>
+    </extension>
+</addon>

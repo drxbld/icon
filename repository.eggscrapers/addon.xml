@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.eggscrapers" name="EggScrapers" version="1.0.1" provider-name="Eggman">
+	<extension point="xbmc.addon.repository" name="EggScrapers">
+	    <dir>
+		    <info compressed="false">https://raw.githubusercontent.com/eggman19/eggscrapers/master/_eggscrapers/addons.xml</info>
+		    <checksum>https://raw.githubusercontent.com/eggman19/eggscrapers/master/_eggscrapers/addons.xml.md5</checksum>
+		    <datadir zip="true">https://raw.githubusercontent.com/eggman19/eggscrapers/master/_eggscrapers</datadir>
+        </dir>
+		<dir>
+		    <info compressed="false">https://raw.githubusercontent.com/teamuniversal/scrapers/master/_modules4all/zips/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/teamuniversal/scrapers/master/_modules4all/zips/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/teamuniversal/scrapers/master/_modules4all/zips/</datadir>
+        </dir>
+		<dir>
+		    <info compressed="false">https://raw.githubusercontent.com/jsergio123/zips/master/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/jsergio123/zips/master/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/jsergio123/zips/master/</datadir>
+		</dir>	
+		<dir>
+		    <info compressed="false">https://github.com/tvaddonsco/tva-resolvers-repo/raw/master/addons.xml</info>
+		    <checksum>https://github.com/tvaddonsco/tva-resolvers-repo/raw/master/addons.xml.md5</checksum>
+		    <datadir zip="true">https://github.com/tvaddonsco/tva-resolvers-repo/raw/master/zips/</datadir>
+        </dir>
+	</extension>	
+	<extension point="xbmc.addon.metadata">
+		<summary>EggScrapers</summary>
+		<description>EggScrapers</description>
+		<platform>all</platform>
+	</extension>
+</addon>
+

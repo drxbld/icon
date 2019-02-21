@@ -1,0 +1,22 @@
+<xml>
+    <dir>
+        <title>TV Calendar</title>
+        <tvmaze>calendar</tvmaze>
+    </dir>
+	
+	<dir>
+    <title>US Networks</title>
+    <tvmaze>country/United States/1</tvmaze>
+    </dir>
+	
+	<dir>
+    <title>UK Networks</title>
+    <tvmaze>country/United Kingdom/1</tvmaze>
+    </dir>
+	
+	<dir>
+    <title>Canada Networks</title>
+    <tvmaze>country/Canada/1</tvmaze>
+    </dir>
+
+</xml>

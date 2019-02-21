@@ -1,0 +1,101 @@
+<plugin>
+  <title>UK Top 40 Songs This Week</title>
+  <link>plugin://plugin.video.youtube/playlist/PL3oW2tjiIxvSNtMGRTcmla1KBpFkyeiN2/</link>
+  <thumbnail>special://home/addons/plugin.video.slamming/resources/media/icon.png</thumbnail>
+  <fanart>special://home/addons/plugin.video.slamming/resources/media/fanart.jpg</fanart>
+  <summary>UK Top 40</summary>
+</plugin>
+
+<plugin>
+  <title>US Top 40 Songs This Week</title>
+  <link>plugin://plugin.video.youtube/playlist/PLN3h3MQ8RhVy7CtflMwSvV7AN3-dxxBZH/</link>
+  <thumbnail>special://home/addons/plugin.video.slamming/resources/media/icon.png</thumbnail>
+  <fanart>special://home/addons/plugin.video.slamming/resources/media/fanart.jpg</fanart>
+  <summary>US Top 40</summary>
+</plugin>
+
+<dir>
+<name>Brit-pop</name>
+<link>file://britpop/britpop.xml</link>
+<thumbnail>special://home/addons/plugin.video.slamming/resources/media/icon.png</thumbnail>
+<fanart>special://home/addons/plugin.video.slamming/resources/media/fanart.jpg</fanart>
+<summary>Classic Brit-pop</summary>
+</dir>
+
+<dir>
+<name>URBAN MUSIC</name>
+<link>file://urban/urban.xml</link>
+<thumbnail>special://home/addons/plugin.video.slamming/resources/media/icon.png</thumbnail>
+<fanart>special://home/addons/plugin.video.slamming/resources/media/fanart.jpg</fanart>
+<summary>All types of urban music.</summary>
+</dir>
+
+<dir>
+<name>POP</name>
+<link>file://pop/pop.xml</link>
+<thumbnail>special://home/addons/plugin.video.slamming/resources/media/icon.png</thumbnail>
+<fanart>special://home/addons/plugin.video.slamming/resources/media/fanart.jpg</fanart>
+<summary>Pop Music</summary>
+</dir>
+
+<dir>
+<name>Rock</name>
+<link>file://rock/rock.xml</link>
+<thumbnail>special://home/addons/plugin.video.slamming/resources/media/icon.png</thumbnail>
+<fanart>special://home/addons/plugin.video.slamming/resources/media/fanart.jpg</fanart>
+<summary>Rock Music</summary>
+</dir>
+
+<dir>
+<name>Country</name>
+<link>file://country/country.xml</link>
+<thumbnail>special://home/addons/plugin.video.slamming/resources/media/icon.png</thumbnail>
+<fanart>special://home/addons/plugin.video.slamming/resources/media/fanart.jpg</fanart>
+<summary>Country Music</summary>
+</dir>
+
+<dir>
+<name>Latin Music</name>
+<link>file://latin/latin.xml</link>
+<thumbnail>special://home/addons/plugin.video.slamming/resources/media/icon.png</thumbnail>
+<fanart>special://home/addons/plugin.video.slamming/resources/media/fanart.jpg</fanart>
+<summary>latin Music</summary>
+</dir>
+
+<dir>
+<name>Power Ballads</name>
+<link>file://powerballads/powerballads.xml</link>
+<thumbnail>special://home/addons/plugin.video.slamming/resources/media/icon.png</thumbnail>
+<fanart>special://home/addons/plugin.video.slamming/resources/media/fanart.jpg</fanart>
+<summary>In honour of Clovis & the PR Guru</summary>
+</dir>
+
+<plugin>
+  <title>Music Legends</title>
+  <link>plugin://plugin.video.youtube/playlist/PL_34_m4eTlaOpfFVy_gy36BMKSrx3MNPc/</link>
+  <thumbnail>special://home/addons/plugin.video.slamming/resources/media/icon.png</thumbnail>
+  <fanart>special://home/addons/plugin.video.slamming/resources/media/fanart.jpg</fanart>
+  <summary>Music Lengends</summary>
+  <content></content>
+</plugin>
+
+<plugin>
+  <title>Disney Music</title>
+  <link>plugin://plugin.video.youtube/playlist/PLDW-5jXWWr5n8J6l5OI43CC9lhbs4zX82/</link>
+  <thumbnail>special://home/addons/plugin.video.slamming/resources/media/icon.png</thumbnail>
+  <fanart>special://home/addons/plugin.video.slamming/resources/media/fanart.jpg</fanart>
+  <summary>Disney Classics</summary>
+  <content></content>
+</plugin>
+
+<plugin>
+  <title>4K Music videos</title>
+  <link>plugin://plugin.video.youtube/playlist/PL9gObAjpDk3wdzQ3av7Zx2qC07gtvm6sW/</link>
+  <thumbnail>special://home/addons/plugin.video.slamming/resources/media/icon.png</thumbnail>
+  <fanart>special://home/addons/plugin.video.slamming/resources/media/fanart.jpg</fanart>
+  <summary>Some cool 4k music videos</summary>
+  <content></content>
+</plugin>
+
+
+

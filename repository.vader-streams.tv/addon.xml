@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.vader-streams.tv" name="Vaders.tv Add-ons" version="1.0.3" provider-name="DarthVader">
+	<extension point="xbmc.addon.repository" name="Vaders.tv Add-ons Add-on Repository">
+		<info compressed="false">http://repo.vaders.tv/repo/addons.xml</info>
+		<checksum>http://repo.vaders.tv/repo/addons.xml.md5</checksum>
+                <datadir zip="true">http://repo.vaders.tv/repo/</datadir>
+                </extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Install Add-ons from vader-streams.tv</summary>
+		<description>Download and install add-ons from vaders.tv addon repository.[CR][CR]By using this Repository you will be able to take advantage of our cutting edge features.</description>
+		<disclaimer>DarthVader</disclaimer>
+		<platform>all</platform>
+	</extension>
+</addon>

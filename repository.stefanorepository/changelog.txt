@@ -1,0 +1,8 @@
+v1.0
+- Beta
+v2.0
+- - Addons non ufficiali essenziali per il Funzionamento di Stefano Addon e Evil Addon 
+v3.0
+- - cambio sever
+V3.1
+-- alcuni fix

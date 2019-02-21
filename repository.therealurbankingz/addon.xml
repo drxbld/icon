@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.therealurbankingz" name="The Real Urban Kingz Repo" version="2.0.1" provider-name="therealurbankingz">
+	<extension point="xbmc.addon.repository" name="therealurbankingz">
+		<info compressed="false">http://therealurbankingz.com/repofiles/addons.xml</info>
+		<checksum>http://therealurbankingz.com/repofiles/addons.xml.md5</checksum>
+		<datadir zip="true">http://therealurbankingz.com/repofiles/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>TheRealUrbanKingz Repo.</summary>
+		<description>How to create a Kodi Repository</description>
+		<platform>all</platform>
+	</extension>
+</addon>
+

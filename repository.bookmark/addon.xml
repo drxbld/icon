@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.bookmark" name="[B]Bookmark Repository[/B]" version="1.7" provider-name="Altruistic">
+		<extension point="xbmc.addon.repository" name="Bookmark repository">
+			<info compressed="false">https://raw.githubusercontent.com/tubestrending/selfless/master/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/tubestrending/selfless/master/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/tubestrending/selfless/master/</datadir>
+		</extension>
+		  <extension point="xbmc.addon.metadata">
+			<summary lang="en">Bookmark Repository</summary>
+			<description lang="en">All addons - One place</description>
+			<platform>all</platform>
+			<forum>Coming!</forum>
+			<website>Coming!</website>
+		 </extension>
+	</addon>

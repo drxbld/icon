@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<channel>
+    <id>filmgratis</id>
+    <name>FilmAltaDefinizione</name>
+
+    <active>true</active>
+    <adult>false</adult>
+    <language>it</language>
+
+	<fanart>https://raw.githubusercontent.com/stesev1/channels/master/images/background/background.jpg</fanart>
+    <thumbnail>https://raw.githubusercontent.com/stesev1/channels/master/images/filmaltadefinizione.png</thumbnail>
+    <bannermenu>https://raw.githubusercontent.com/stesev1/channels/master/images/filmaltadefinizione.png</bannermenu>
+
+    <update_url>https://raw.githubusercontent.com/stesev1/channels/master/channels/</update_url>
+    <version>2</version>
+    <date>28/12/2018</date>
+    <changes>Update</changes>
+
+    <categories>
+        <category>movie</category>
+		<category>serie</category>
+    </categories>
+
+ 	<settings>
+		<id>include_in_global_search</id>
+		<type>bool</type>
+		<label>Includi ricerca globale</label>
+		<default>true</default>
+		<enabled>true</enabled>
+		<visible>true</visible>
+	</settings>
+    
+    <settings>
+        <id>include_in_newest_peliculas</id>
+        <type>bool</type>
+        <label>Includi in novità - film</label>
+        <default>true</default>
+        <enabled>true</enabled>
+        <visible>true</visible>
+    </settings>
+</channel>

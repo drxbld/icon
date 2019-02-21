@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<includes>
+    <include name="Banners">
+ 
+        <control type="image">
+            <left>250</left>
+            <top>250</top>
+            <width>300</width>
+            <height>100</height>
+            <texture>$INFO[Container(709).ListItem.Art(thumb)]</texture>
+            <aspectratio>keep</aspectratio>
+            <visible>Control.IsVisible(709)</visible>
+        </control>
+ 
+        <control type="fixedlist" id="709">
+            <viewtype label="Banners">list</viewtype>
+            <left>351</left>
+            <top>112</top>
+            <width>950</width>
+            <height>550</height>
+            <orientation>vertical</orientation>
+            <focusposition>1</focusposition>
+            <visible>Container.Content(tvshows) | Container.Content(seasons)</visible>
+ 
+            <itemlayout width="585" height="190">
+ 
+                <control type="image">
+                    <left>2</left>
+                    <top>13</top>
+                    <width>573</width>
+                    <height>105</height>
+                    <texture>$INFO[ListItem.Art(banner)]</texture>
+                    <aspectratio>stretch</aspectratio>
+                </control>
+                <control type="label">
+                    <left>10</left>
+                    <top>107</top>
+                    <width>633</width>
+                    <height>60</height>
+                    <align>left</align>
+                    <label>$INFO[ListItem.Label]</label>
+                    <font>font14</font>
+                    <textcolor>FFFFFFFF</textcolor>
+                    <selectedcolor>FFFFFFFF</selectedcolor>
+                </control>
+ 
+            </itemlayout>
+            <focusedlayout width="585" height="190">
+ 
+                <control type="image">
+                    <left>2</left>
+                    <top>13</top>
+                    <width>573</width>
+                    <height>105</height>
+                    <texture>$INFO[ListItem.Art(banner)]</texture>
+                    <aspectratio>stretch</aspectratio>
+                </control>
+                <control type="label">
+                    <left>10</left>
+                    <top>107</top>
+                    <width>633</width>
+                    <height>60</height>
+                    <align>left</align>
+                    <label>$INFO[ListItem.Label]</label>
+                    <font>font14</font>
+                    <textcolor>FFFFFFFF</textcolor>
+                    <selectedcolor>FFFFFFFF</selectedcolor>
+                </control>
+ 
+            </focusedlayout>
+        </control>
+ 
+    </include>
+</includes>

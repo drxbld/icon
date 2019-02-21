@@ -1,0 +1,11 @@
+Version 0.0.4
+
+Added Looking Glass server
+
+Version 0.0.3
+
+Split up repo
+
+Version 0.0.2 - Nov 18-2017
+
+Added Project D Repo to Looking Glass

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.toonmania2" name="Toonmania2" version="0.4.6" provider-name="doko, MetalKettle">
+  <requires>
+    <import addon="xbmc.python" version="2.19.0"/>
+    <import addon="script.module.requests" />
+    <import addon="script.module.beautifulsoup4"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="Default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Toonmania2</summary>
+    <description lang="en">
+Watch cartoons and anime from [COLOR khaki][B]Animetoon[/B][/COLOR] (www.animetoon.org) and [COLOR khaki][B]Animeplus[/B][/COLOR] (www.animeplus.tv).
+Go pay them a visit!
+
+Add-on by doko.
+    </description>
+    <news>
+[COLOR khaki][B]Toonmania2[/B][/COLOR] - Cartoons &amp; Anime
+
+[B]0.4.6:[/B]
+- Added Kodi Playlist support.
+(On episode lists press LEFT to show options sidebar, select Actions: Go To Playlist)
+
+[B]0.4.5:[/B]
+- Readded the "Autoplay" option in settings, turn it off to choose a provider
+- Added one-off cleanup service, it runs just once and deletes itself
+
+[B]0.4.4:[/B]
+- New smart cache, faster to load
+    </news>
+    <disclaimer lang="en"></disclaimer>
+    <platform>all</platform>
+    <disclaimer lang="en">The authors of this addon do not host any of the content found or have any affiliation with the content providers or the websites that it scrapes information from.</disclaimer>
+  </extension>
+</addon>

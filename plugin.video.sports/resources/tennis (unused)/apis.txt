@@ -1,0 +1,2 @@
+http://www.atpworldtour.com/en/-/ajax/Scores/GetInitialScores
+http://www.wtatennis.com/scores.json

@@ -1,0 +1,32 @@
+<addon 	id="repository.Legion.N.Unhinged" 
+		name="[COLOR lime][B]Legion[/B][/COLOR][COLOR red]'N'[/COLOR][COLOR cyan][B]Unhinged[/B][/COLOR] [COLOR lime][B]Re[/B][/COLOR][COLOR cyan][B]po[/B][/COLOR]" 
+		version="1.4" 
+		provider-name="AR">	
+	<extension point="xbmc.addon.repository" name="Legion'N'Unhinged: Repository">
+	   <dir>
+		<info compressed="false">http://myatom.one/.legionrepo/addons.xml</info>
+		<checksum>http://myatom.one/.legionrepo/addons.xml.md5</checksum>
+		<datadir zip="true">http://myatom.one/.legionrepo/</datadir>
+	   </dir>
+		<dir>
+		    <info compressed="false">https://raw.githubusercontent.com/teamuniversal/scrapers/master/_modules4all/zips/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/teamuniversal/scrapers/master/_modules4all/zips/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/teamuniversal/scrapers/master/_modules4all/zips/</datadir>
+        </dir>
+		<dir>
+		    <info compressed="false">https://raw.githubusercontent.com/jsergio123/zips/master/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/jsergio123/zips/master/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/jsergio123/zips/master/</datadir>
+		</dir>	
+		<dir>
+		    <info compressed="false">https://github.com/tvaddonsco/tva-resolvers-repo/raw/master/addons.xml</info>
+		    <checksum>https://github.com/tvaddonsco/tva-resolvers-repo/raw/master/addons.xml.md5</checksum>
+		    <datadir zip="true">https://github.com/tvaddonsco/tva-resolvers-repo/raw/master/zips/</datadir>
+        </dir>   
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Legion'N'Unhinged</summary>
+		<description>Enjoy Free Forever</description>
+		<platform>all</platform>
+	</extension>
+</addon>

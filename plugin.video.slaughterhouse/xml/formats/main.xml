@@ -1,0 +1,72 @@
+<xml>
+<dir>
+<title>Horror Movies</title>
+<trakt>https://api.trakt.tv/users/1coolguy/lists/horror-movies/items/</trakt>
+<thumbnail></thumbnail>
+</dir>
+
+<dir>
+<title>Tv Shows</title>
+<trakt>https://api.trakt.tv/users/1coolguy/lists/scaryshows/items</trakt>
+<thumbnail></thumbnail>
+</dir>
+  
+<dir>
+<title>Slasher Films Collection  </title>
+<link>file://formats/slasher.xml</link>
+<thumbnail></thumbnail>
+</dir>
+  
+<dir>
+<title>Zombie Flicks Collection </title>
+<link>file://formats/zombies.xml</link>
+<thumbnail></thumbnail>
+</dir>
+  
+<dir>
+<title>Possessed Souls Collection  </title>
+<link>file://formats/possesion.xml</link>
+<thumbnail></thumbnail>
+</dir>
+  
+<dir>
+<title>Vampires & Monsters Collection  </title>
+<link>file://formats/bloodsuckersmonsters.xml</link>
+<thumbnail></thumbnail>
+</dir>
+
+<item>
+<title>[COLOR white][B]Pair With Sites[/B][/COLOR]</title>
+<pairwith>pairlist</pairwith>
+<thumbnail>special://home/addons/plugin.video.slaughterhouse/resources/media/icon.png</thumbnail>
+<summary>Pair With Sites</summary>
+</item>
+
+<item>
+<title>[COLOR white][B]Authorize Trakt[/B][/COLOR]</title>
+<trakt>https://api.trakt.tv/sync/collection/shows</trakt>
+<thumbnail>special://home/addons/plugin.video.slaughterhouse/resources/media/icon.png</thumbnail>
+<summary>Authorize Trakt</summary>
+</item>
+
+<plugin>
+<name>[COLOR white][B]AUTHORIZE REAL DEBRID [COLOR white][B](RESOLVE-URL)[/B][/COLOR]</name>
+<link>plugin://script.module.resolveurl/?mode=auth_rd</link>
+<thumbnail>special://home/addons/plugin.video.slaughterhouse/resources/media/icon.png</thumbnail>
+<fanart>special://home/addons/plugin.video.slaughterhouse/resources/media/fanart.jpg</fanart>
+<summary>AUTHORIZE REAL DEBRID (RESOLVE-URL)</summary>
+</plugin>
+
+
+<plugin>
+<name>[COLOR white][B]Settings[/B][/COLOR]</name>
+<link>plugin://plugin.video.slaughterhouse/?action=openSettings</link>
+<thumbnail>special://home/addons/plugin.video.slaughterhouse/resources/media/icon.png</thumbnail>
+</plugin>
+
+<dir>
+<title>Search TMDB</title>
+<tmdb>search</tmdb>
+</dir>
+
+

@@ -1,0 +1,5 @@
+March madness bracket data 
+https://data.ncaa.com/carmen/brackets/championships/basketball-men/d1/2018/data.json
+
+Game Data for date
+https://data.ncaa.com/scoreboard/basketball-men/d1/{YYYY}/{MM}/{DD}/scoreboard.html

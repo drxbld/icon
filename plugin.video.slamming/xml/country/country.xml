@@ -1,0 +1,30 @@
+Single Link
+
+
+Playlist
+
+<plugin>
+<title>Country Music Playlist 2018 - TOP COUNTRY SONGS </title>
+<link>plugin://plugin.video.youtube/playlist/PL2BN1Zd8U_MsyMeK8r9Vdv1lnQGtoJaSa/</link>
+<thumbnail>special://home/addons/plugin.vide.slamming/resoucres/media/icon.png</thumbnail>
+</plugin>
+
+<plugin>
+<title>Best country songs 2000-2017</title>
+<link>plugin://plugin.video.youtube/playlist/PLv30jT9MW5cCWW0Vi5OhPGfs6YxHHAhqg/</link>
+<thumbnail>special://home/addons/plugin.vide.slamming/resoucres/media/icon.png</thumbnail>
+</plugin>
+
+<plugin>
+<title>Best Country Songs of All Time</title>
+<link>plugin://plugin.video.youtube/playlist/PL3oW2tjiIxvQW6c-4Iry8Bpp3QId40S5S/</link>
+<thumbnail>special://home/addons/plugin.vide.slamming/resoucres/media/icon.png</thumbnail>
+</plugin>
+
+Channel
+
+<plugin>
+<title></title>
+<link>plugin://plugin.video.youtube/channel/**CHANNEL NUMBER**/playlists/</link>
+<thumbnail>special://home/addons/plugin.vide.slamming/resoucres/media/icon.png</thumbnail>
+</plugin>

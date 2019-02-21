@@ -1,0 +1,20 @@
+v3.0.2
+   - Changed fanart
+   - Tidy up addon.xml
+   - License updated
+
+v3.0.1
+   - Resized icon
+
+v3.0.0
+   - New url
+   - Changes to addon.xml
+
+v2.0.0
+   - New url
+
+v1.0.1
+   - Change to addon.xml
+
+v1.0.0
+   - Initial releasve

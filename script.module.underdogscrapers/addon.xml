@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="script.module.underdogscrapers" name="[B][COLOR yellow]Underdog [COLOR white]Scrapers[/COLOR][/B]" version="1.0.1" provider-name="Illuminati">
+    <requires>
+        <import addon="xbmc.python" version="2.1.0"/>
+        <import addon="script.module.beautifulsoup" version="3.2.1"/>
+        <import addon="script.module.futures" version="2.2.0"/>
+        <import addon="script.module.requests"/>
+        <import addon="script.module.six"/>
+	<import addon="script.module.resolveurl" version="5.0.00" optional="true"/>
+    </requires>
+    <extension point="xbmc.python.module" library="lib"/>
+    <extension point="xbmc.python.pluginsource" library="lib/default.py">
+        <provides>all</provides>
+    </extension>
+        <extension point="xbmc.addon.metadata">
+            <platform>all</platform>
+        <summary lang="en">This Module Could Not Be Possible Without Nan/U.S. Much Respect To The Devs That Came Before Us.</summary>
+		<disclaimer lang="en">The authors of this addon do not host any of the content which is found and have no affiliation with any of the content providers. This addon simply searches websites for content. Use at your own risk!</disclaimer>
+        </extension>
+</addon>

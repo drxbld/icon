@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.tmb" name="[B]Trademark Repository[/B]" version="1.8" provider-name="Trademark">
+<extension point="xbmc.addon.repository" name="Trademark repository">
+		<dir>
+			<info compressed="false">https://raw.githubusercontent.com/trademark13/tmbkodi.com-repo/master/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/trademark13/tmbkodi.com-repo/master/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/trademark13/tmbkodi.com-repo/master/</datadir>		
+		</dir>
+		<dir>
+			<info compressed="false">https://raw.githubusercontent.com/noobsandnerds/modules4all/master/zips/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/noobsandnerds/modules4all/master/zips/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/noobsandnerds/modules4all/master/zips/</datadir>
+		</dir>
+		<dir>
+			<info compressed="false">https://raw.githubusercontent.com/jsergio123/zips/master/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/jsergio123/zips/master/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/jsergio123/zips/master/</datadir>
+		</dir>
+		<dir>
+			<info compressed="false">https://raw.githubusercontent.com/totalrevolution/python-koding/master/zips/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/totalrevolution/python-koding/master/zips/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/totalrevolution/python-koding/master/zips/</datadir>
+		</dir>
+		<dir minversion="14.0.0">
+			<info compressed="false">https://github.com/OpenELEQ/repository.q/raw/master/openeleq-addons.xml</info>
+			<checksum>https://github.com/OpenELEQ/repository.q/raw/master/openeleq-addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.github.com/OpenELEQ/repository.q/master/zips/</datadir>
+		</dir>	
+</extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Trademark Repository</summary>
+    <description lang="en">Please visit http://tmbkodi.com click on some of the adverts to help with the server costs. Thank you.</description>
+    <platform>all</platform>
+	<forum>http://koditalk.org/</forum>
+    <website>https://tmbkodi.com/</website>
+  <assets>
+	<icon>icon.png</icon>
+	<fanart>fanart.jpg</fanart>
+  </assets>
+  </extension>
+</addon>

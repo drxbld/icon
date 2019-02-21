@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.Beaubrepo" name="Beau B repository" version="1.3" provider-name="Beau b">
+	<extension point="xbmc.addon.repository" name="Beau B repository">
+		<info compressed="false">http://wolfpackcrew.co.uk/seeddata/beaubrepo/files/addons.xml</info>
+		<checksum>http://wolfpackcrew.co.uk/seeddata/beaubrepo/files/addons.xml.md5</checksum>
+		<datadir zip="true">http://wolfpackcrew.co.uk/seeddata/beaubrepo/files/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary></summary>
+		<description></description>
+		<platform>all</platform>
+	</extension>
+</addon>
+

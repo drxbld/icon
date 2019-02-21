@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.bandicootbuilds" name="[COLOR gold]Bandicoot Builds Repository[/COLOR]" version="1.8.2" provider-name="Bandicoot Builds">
+    <requires>
+        <import addon="xbmc.addon" version="12.0.0"/>
+    </requires>
+    <extension point="xbmc.addon.repository" name="[COLOR gold]Bandicoot Builds Repository[/COLOR]">
+        <info compressed="false">http://coots.ml/_bcrepo/addons.xml</info>
+        <checksum>http://coots.ml/_bcrepo/addons.xml.md5</checksum>
+        <datadir zip="true">http://coots.ml/_bcrepo/</datadir>
+        <hashes>false</hashes>
+        <dir>
+            <info compressed="false">https://raw.githubusercontent.com/jenaddon/repository.jenrepo/master/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/jenaddon/repository.jenrepo/master/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/jenaddon/repository.jenrepo/master/zips/</datadir>
+            <hashes>false</hashes>
+        </dir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>Install add-ons from the bandicootbuilds repository</summary>
+        <description>Having this repository installed will ensure that you will always have the latest versions of the bandicoot wizard and other add-ons from bandicoot builds</description>
+        <platform>all</platform>
+        <genre>movies,usa</genre>
+    </extension>
+</addon>

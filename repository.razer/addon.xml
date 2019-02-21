@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+    <addon id="repository.razer" name="[COLOR blue]Razer Repository[/COLOR]" version="4.0.12" provider-name="Razer">
+        <requires>
+            <import addon="xbmc.addon" version="12.0.0"/>
+        </requires>
+        <extension point="xbmc.addon.repository" name="Razer Repository">
+		    <dir>
+            <info compressed="false">http://myrazer.me/_repo/addons.xml</info>
+            <checksum>http://myrazer.me/_repo/addons.xml.md5</checksum>
+            <datadir zip="true">http://myrazer.me/_repo/</datadir>
+            <hashes>false</hashes>
+		    </dir>	
+		    <dir>
+				<info compressed="false">https://raw.githubusercontent.com/marcelveldt/repository.marcelveldt/master/addons.xml</info>
+				<checksum>https://raw.githubusercontent.com/marcelveldt/repository.marcelveldt/master/addons.xml.md5</checksum>
+				<datadir zip="true">https://raw.githubusercontent.com/marcelveldt/repository.marcelveldt/master/</datadir>
+			</dir>
+			<dir>
+				<info compressed="false">https://raw.githubusercontent.com/jsergio123/zips/master/addons.xml</info>
+				<checksum>https://raw.githubusercontent.com/jsergio123/zips/master/addons.xml.md5</checksum>
+				<datadir zip="true">https://raw.githubusercontent.com/jsergio123/zips/master/</datadir>
+			</dir>
+			<dir>
+				<info compressed="false">https://github.com/tvaddonsco/tva-resolvers-repo/raw/master/addons.xml</info>
+				<checksum>https://github.com/tvaddonsco/tva-resolvers-repo/raw/master/addons.xml.md5</checksum>
+				<datadir zip="true">https://github.com/tvaddonsco/tva-resolvers-repo/raw/master/zips/</datadir>
+			</dir>
+			<dir>
+				<info compressed="false">https://raw.githubusercontent.com/totalrevolution/python-koding/master/zips/addons.xml</info>
+				<checksum>https://raw.githubusercontent.com/totalrevolution/python-koding/master/zips/addons.xml.md5</checksum>
+				<datadir zip="true">https://raw.githubusercontent.com/totalrevolution/python-koding/master/zips/</datadir>
+			</dir>
+			<dir>
+				<info compressed="false">https://raw.githubusercontent.com/teamuniversal/scrapers/master/_modules4all/zips/addons.xml</info>
+				<checksum>https://raw.githubusercontent.com/teamuniversal/scrapers/master/_modules4all/zips/addons.xml.md5</checksum>
+				<datadir zip="true">https://raw.githubusercontent.com/teamuniversal/scrapers/master/_modules4all/zips/</datadir>
+			</dir>
+			<dir>
+				<info compressed="false">http://lillywhiteyid.tk/oka/addons/addons.xml</info>
+				<checksum>http://lillywhiteyid.tk/oka/addons/addons.xml.md5</checksum>
+				<datadir zip="true">http://lillywhiteyid.tk/oka/addons/</datadir>
+			</dir>	
+        </extension>
+        <extension point="xbmc.addon.metadata">
+            <summary>[COLOR blue]Razer Repository[/COLOR]</summary>
+            <description>[COLOR blue]Razer Repository for my add-ons and builds[/COLOR]</description>
+            <platform>all</platform>
+            <genre></genre>
+        </extension>
+    </addon>

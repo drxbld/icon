@@ -1,0 +1,41 @@
+
+
+
+
+Playlist
+
+<plugin>
+<title>UK Top 40 R&B Songs This Week (Urban Songs Chart)</title>
+<link>plugin://plugin.video.youtube/playlist/PLlBnr9YGj2OqWCinY3rTQrSbgkknRHnPa/</link>
+<thumbnail>special://home/addons/plugin.vide.slamming/resoucres/media/icon.png</thumbnail>
+</plugin>
+
+<plugin>
+<title>Hip Hop Songs 2018 - Best Hip Hop Playlist</title>
+<link>plugin://plugin.video.youtube/playlist/PLuUrokoVSxlfUJuJB_D8j_wsFR4exaEmy/</link>
+<thumbnail>special://home/addons/plugin.vide.slamming/resoucres/media/icon.png</thumbnail>
+</plugin>
+
+
+Single Link
+
+<item>
+<title>Urban & Hip Hop Songs Mix 2018 Top Summer Hits</title>
+<link>https://www.youtube.com/watch?v=nZjj0C4-m3E</link>
+<thumbnail>special://home/addons/plugin.vide.slamming/resoucres/media/icon.png</thumbnail>
+</item>
+
+<item>
+<title>90'S R&B PARTY MIX ~ Total, Usher, SWV, Keith Sweat, R. Kelly, TLC, Dru Hill, Montell Jordan, Brandy</title>
+<link>https://www.youtube.com/watch?v=c9Iz9SND-ZE</link>
+<thumbnail>special://home/addons/plugin.vide.slamming/resoucres/media/icon.png</thumbnail>
+</item>
+
+
+Channel
+
+<plugin>
+<title></title>
+<link>plugin://plugin.video.youtube/channel/**CHANNEL NUMBER**/playlists/</link>
+<thumbnail>special://home/addons/plugin.vide.slamming/resoucres/media/icon.png</thumbnail>
+</plugin>

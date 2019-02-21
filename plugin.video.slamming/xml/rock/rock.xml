@@ -1,0 +1,31 @@
+Single Link
+
+
+
+Playlist
+
+<plugin>
+<title>New Rock 2018 Music - Best Rock Songs 2018 </title>
+<link>plugin://plugin.video.youtube/PLRZlMhcYkA2HybvsMzUcsqoxqlCEHXnpC/</link>
+<thumbnail></thumbnail>
+</plugin>
+
+<plugin>
+<title>80's & 90's Rock Playlist  </title>
+<link>plugin://plugin.video.youtube/PL3485902CC4FB6C67/</link>
+<thumbnail></thumbnail>
+</plugin>
+
+<plugin>
+<title>Classic Rock Music Education: 500 of the Greatest Songs</title>
+<link>plugin://plugin.video.youtube/PLqYXv_L7NiEyYnfZhVHR7ixOTANxjes89</link>
+<thumbnail></thumbnail>
+</plugin>
+
+Channel
+
+<plugin>
+<title></title>
+<link>plugin://plugin.video.youtube/channel/**CHANNEL NUMBER**/playlists/</link>
+<thumbnail></thumbnail>
+</plugin>

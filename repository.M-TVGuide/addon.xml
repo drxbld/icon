@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.M-TVGuide" name="[COLOR yellow]M[COLOR ghostwhite]-[/COLOR][COLOR yellow]TV Guide Repository[/COLOR]" version="1.4" provider-name="Mayfair">
+    <extension point="xbmc.addon.repository" name="M-TV Guide Repository">
+        <info compressed="false">http://mayfairguides.net/git/addons.xml</info>
+        <checksum>http://mayfairguides.net/git/addons.xml.md5</checksum>
+        <datadir zip="true">http://mayfairguides.net/git/zips/</datadir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>M-TV Guide Repository</summary>
+        <description>The M-TV Guide repository from Mayfair.</description>
+        <platform>all</platform>
+    </extension>
+</addon>

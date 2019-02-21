@@ -1,0 +1,13 @@
+<dir>
+  <title>Car Programs</title>
+  <tmdb>list/47734</tmdb>
+  <thumbnail></thumbnail>
+  <fanart></fanart>
+</dir>
+
+	<plugin>
+    <title>Top Gear UK 24/7 stream</title>
+    <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=98</link>
+	<thumbnail>https://www.arconaitv.us/uploads/streams/5934823910756_top%20gear.jpg</thumbnail>
+	<fanart></fanart>
+    </plugin>

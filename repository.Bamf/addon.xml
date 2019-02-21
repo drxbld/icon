@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.Bamf" name="Bamf Add-on Repository" version="1.1" provider-name="Bamf Team">
+	<extension point="xbmc.addon.repository" name="Bamf Add-on Repository">
+		<dir>
+			<info compressed="false">http://genietvcunts.co.uk/bamffff/Repo/addons.xml</info>
+			<checksum>http://genietvcunts.co.uk/bamffff/Repo/addons.xml.md5</checksum>
+			<datadir zip="true">http://genietvcunts.co.uk/bamffff/Repo</datadir>
+		</dir>		
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">Install Add-ons from Bamf</summary>
+		<description lang="en">Download and install add-ons from Bamf</description>
+		<platform>all</platform>
+	</extension>
+</addon>
+

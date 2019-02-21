@@ -1,0 +1,13 @@
+[COLOR red]December 16 2018[COLOR gold]Added - PerformanceCars, Hennessey Performance, DBR High Performance, CarsandCameras, High Performance Network, Road Test TV, Lamborghini Squadra Corse[/COLOR]
+
+[COLOR red]Sept 22 2018[COLOR gold]Added - Idiots on Wheels, Crashed Car Channel, Car World,CC TUBE, DDS TV, Roads of Mayhem, RoadAccidentsWorld, NHRA[/COLOR]
+
+[COLOR red]August 26 2018 Updated Dependencies.[/COLOR]
+
+[COLOR red]June 10 2018[COLOR gold]Added - 24H Series, Mudd Boggin in Florida, Network A, NEXT HERO[/COLOR]
+
+V1.0.3 Add-on Rewrite(Rock)
+
+[COLOR gold]I hope you enjoy the add-on...[/COLOR]
+
+[COLOR red]Welcome to GearZ.[/COLOR]
