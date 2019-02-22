@@ -1,3 +1,0 @@
-[B]1.0.6[/B]
-
-- CLEANED UP SOME CODE

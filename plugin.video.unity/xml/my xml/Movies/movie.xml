@@ -1,9 +1,0 @@
-    <dir>
-      <title>Bollywood Movies</title>
-      <tmdb>keyword/movies/10540</tmdb>
-    </dir>
-
-    <dir>
-  <title>Popular</title>
-  <tmdb>movies/popular</tmdb>
-</dir>

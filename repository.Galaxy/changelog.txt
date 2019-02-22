@@ -1,5 +1,0 @@
-V 1.2 Added Icon and Fanart
-
-
-[B]Version 1.0[/B]
-- Initial version

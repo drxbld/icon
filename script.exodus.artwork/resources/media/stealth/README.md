@@ -1,2 +1,0 @@
-# ExodusTheme
-Theme
